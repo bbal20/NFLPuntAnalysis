@@ -1,7 +1,8 @@
 # NFLPuntAnalysis
 NFL Punt Analytics Kaggle competition 
 
-#Contributers
+# Contributers<br>
+
 Haley Horn <br>
 Steve Brahmall <br>
 Michael Tieu
