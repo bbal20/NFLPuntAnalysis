@@ -1,0 +1,667 @@
+GameKey,Season_Year,Season_Type,Week,Game_Date,Game_Day,Game_Site,Start_Time,Home_Team,HomeTeamCode,Visit_Team,VisitTeamCode,Stadium,StadiumType,Turf,GameWeather,Temperature,OutdoorWeather
+1,2016,Pre,1,2016-08-07 00:00:00.000,Sunday,Indianapolis,20:00,Indianapolis Colts,IND,Green Bay Packers,GB,Tom Benson Hall of Fame Stadium,Outdoor,Turf,,,
+2,2016,Pre,2,2016-08-13 00:00:00.000,Saturday,Los Angeles,17:00,Los Angeles Rams,LA,Dallas Cowboys,DAL,Los  Angeles Memorial Coliseum,Outdoor,Grass,Sunny,79.0,Sunny
+3,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,Baltimore,19:30,Baltimore Ravens,BLT,Carolina Panthers,CAR,M&T Bank Stadium,Outdoor,Natural Grass,Party Cloudy,94.0,Partly Cloudy
+4,2016,Pre,2,2016-08-12 00:00:00.000,Friday,Green Bay,19:00,Green Bay Packers,GB,Cleveland Browns,CLV,Lambeau Field,Outdoor,DD GrassMaster,,73.0,
+5,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,Chicago,19:00,Chicago Bears,CHI,Denver Broncos,DEN,Soldier Field,Outdoor,Grass,"Partly Cloudy, Chance of Rain 80%",88.0,
+6,2016,Pre,2,2016-08-12 00:00:00.000,Friday,Pittsburgh,19:00,Pittsburgh Steelers,PIT,Detroit Lions,DET,Heinz Field,Outdoors,Grass,Partly Cloudy,82.0,Partly Cloudy
+7,2016,Pre,2,2016-08-14 00:00:00.000,Sunday,Santa Clara,16:00,San Francisco 49ers,SF,Houston Texans,HST,Levis Stadium,Outdoor,Natural grass,Sunny,84.0,
+8,2016,Pre,2,2016-08-13 00:00:00.000,Saturday,Orchard Park,19:00,Buffalo Bills,BUF,Indianapolis Colts,IND,Ralph Wilson Stadium,Outdoor,A-Turf Titan,T-Storms,84.0,T-Storms increasing over 30 minutes before kickoff
+9,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,East Rutherford,19:30,New York Jets,NYJ,Jacksonville Jaguars,JAX,MetLife,Outdoor,FieldTurf,Cloudy,94.0,Cloudy
+10,2016,Pre,2,2016-08-12 00:00:00.000,Friday,East Rutherford,19:00,New York Giants,NYG,Miami Dolphins,MIA,MetLife Stadium,,UBU Speed Series-S5-M,Mostly Cloudy,76.0,
+11,2016,Pre,2,2016-08-12 00:00:00.000,Friday,Cincinnati,19:30,Cincinnati Bengals,CIN,Minnesota Vikings,MIN,Paul Brown stadium,Outdoor,UBU Sports Speed S5-M,Cloudy,86.0,
+12,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,Foxborough,19:30,New England Patriots,NE,New Orleans Saints,NO,Gillette Stadium,Outdoor,Field Turf,"Hazy, hot and humid",84.0,
+13,2016,Pre,2,2016-08-12 00:00:00.000,Friday,Glendale,19:00,Arizona Cardinals,ARZ,Oakland Raiders,OAK,University of Phoenix,Dome,Grass,,,
+14,2016,Pre,2,2016-08-13 00:00:00.000,Saturday,Nashville,19:00,Tennessee Titans,TEN,San Diego Chargers,SD,Nissan Stadium,Outdoors,Grass,Cloudy,83.0,Cloudy
+15,2016,Pre,2,2016-08-13 00:00:00.000,Saturday,Kansas City,15:30,Kansas City Chiefs,KC,Seattle Seahawks,SEA,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,87.0,
+16,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,Philadelphia,19:00,Philadelphia Eagles,PHI,Tampa Bay Buccaneers,TB,Lincoln Financial Field,Outdoor,Grass,Sunny,91.0,Sunny
+17,2016,Pre,2,2016-08-11 00:00:00.000,Thursday,Atlanta,19:00,Atlanta Falcons,ATL,Washington Redskins,WAS,Georgia Dome,"Indoor, non-retractable roof",FieldTurf,Indoor,,Hot
+18,2016,Pre,3,2016-08-19 00:00:00.000,Friday,San Diego,18:00,San Diego Chargers,SD,Arizona Cardinals,ARZ,Qualcomm Stadium,,Grass,Sunny,75.0,
+19,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Cleveland,20:00,Cleveland Browns,CLV,Atlanta Falcons,ATL,FirstEnergy Stadium,Outdoor,Grass,Sunny,79.0,Sunny
+20,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Indianapolis,19:00,Indianapolis Colts,IND,Baltimore Ravens,BLT,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Cloudy,74.0,"Cloudy, 74 degr. Wind SSW at 13 mph "
+21,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Nashville,14:00,Tennessee Titans,TEN,Carolina Panthers,CAR,Nissan Stadium,Outdoors,Grass,Cloudy,80.0,Cloudy
+22,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Foxborough,20:00,New England Patriots,NE,Chicago Bears,CHI,Gillette Stadium,Outdoor,Field Turf,Clear and warm,78.0,
+23,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Detroit,19:30,Detroit Lions,DET,Cincinnati Bengals,CIN,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"82 deg F, Winds W at 7mph, Humidity 57%"
+24,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Los Angeles,18:00,Los Angeles Rams,LA,Kansas City Chiefs,KC,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,71.0,Sunny
+25,2016,Pre,3,2016-08-19 00:00:00.000,Friday,Arlington,19:00,Dallas Cowboys,DAL,Miami Dolphins,MIA,AT&T,Indoor,Artificial,,72.0,Rain
+26,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Seattle,19:00,Seattle Seahawks,SEA,Minnesota Vikings,MIN,CenturyLink Field,outdoor,FieldTurf,Suny,83.0,Sunny
+27,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Houston,19:00,Houston Texans,HST,New Orleans Saints,NO,NRG Stadium,Retractable Roof,Synthetic,Partly Cloudy,88.0,Partly Cloudy
+28,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Orchard Park,16:00,Buffalo Bills,BUF,New York Giants,NYG,New Era Field,Outdoor,A-Turf Titan,Chance of Showers,87.0,Chance of Showers & Thunderstorms
+29,2016,Pre,3,2016-08-19 00:00:00.000,Friday,Landover,19:30,Washington Redskins,WAS,New York Jets,NYJ,FedExField,Outside,Grass,Sunny,84.0,Sunny
+30,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Green Bay,19:00,Green Bay Packers,GB,Oakland Raiders,OAK,Lambeau Field,Outdoor,DD GrassMaster,,83.0,
+31,2016,Pre,3,2016-08-18 00:00:00.000,Thursday,Pittsburgh,19:00,Pittsburgh Steelers,PIT,Philadelphia Eagles,PHI,Heinz Field,Outdoors,Grass,Partly Cloudy,84.0,Partly Cloudy
+32,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Denver,19:00,Denver Broncos,DEN,San Francisco 49ers,SF,Sports Authority Field at Mile High,Outdoor,grass,Mostly Clear. Gusting ot 14.,73.0,Mostly Clear.
+33,2016,Pre,3,2016-08-20 00:00:00.000,Saturday,Jacksonville,19:30,Jacksonville Jaguars,JAX,Tampa Bay Buccaneers,TB,EverBank Field,Open,Grass,,94.0,Slight Chance of Rain
+34,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,Oakland,17:00,Oakland Raiders,OAK,Tennessee Titans,TEN,Oakland Alameda County Coliseum,Outdoor,Grass,Sunny,69.0,Sunny Skies
+35,2016,Pre,4,2016-08-28 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,San Diego Chargers,SD,U.S. Bank Stadium,Indoor,Field Turf,Indoors,72.0,
+36,2016,Pre,4,2016-08-28 00:00:00.000,Sunday,Houston,15:00,Houston Texans,HST,Arizona Cardinals,ARZ,NRG Stadium,Retractable Roof,Artificial,Mostly cloudy,84.0,Mostly cloudy
+37,2016,Pre,4,2016-08-28 00:00:00.000,Sunday,Jacksonville,20:00,Jacksonville Jaguars,JAX,Cincinnati Bengals,CIN,EverBank Field,Open,Grass,,85.0,20% Chance of Rain
+38,2016,Pre,4,2016-08-26 00:00:00.000,Friday,Landover,19:30,Washington Redskins,WAS,Buffalo Bills,BUF,FedExField,Outdoors,Grass,Sunny,86.0,Sunny
+39,2016,Pre,4,2016-08-25 00:00:00.000,Thursday,Seattle,19:00,Seattle Seahawks,SEA,Dallas Cowboys,DAL,CenturyLink Field,Outdoor,FieldTurf,Sunny,86.0,Sunny
+40,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,Baltimore,19:00,Baltimore Ravens,BLT,Detroit Lions,DET,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,89.0,Partly Cloudy
+41,2016,Pre,4,2016-08-26 00:00:00.000,Friday,Santa Clara,19:00,San Francisco 49ers,SF,Green Bay Packers,GB,Levis Stadium,Outdoor,Natural grass,Sunny,64.0,Sunny
+42,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,Chicago,12:00,Chicago Bears,CHI,Kansas City Chiefs,KC,Soldier Field,Outdoor,Grass,Cloudy with Possible Stray Showers/Thundershowers,76.0,
+43,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,Denver,19:00,Denver Broncos,DEN,Los Angeles Rams,LA,Sports Authority Field at Mile High,Outdoor,Grass,Mostly CLoudy,78.0,Falling to Upper 60s
+44,2016,Pre,4,2016-08-26 00:00:00.000,Friday,Charlotte,19:30,Carolina Panthers,CAR,New England Patriots,NE,Bank of America Stadium,Outdoors,Natural Grass,Mostly Cloudy,88.0,
+45,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,East Rutherford,19:30,New York Jets,NYJ,New York Giants,NYG,MetLife,Outdoor,FieldTurf,Clear,84.0,Clear
+46,2016,Pre,4,2016-08-27 00:00:00.000,Saturday,Indianapolis,19:00,Indianapolis Colts,IND,Philadelphia Eagles,PHI,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Partly sunny,83.0,"Partly sunny, 83 degr. Wind SSE at 7 mph"
+47,2016,Pre,4,2016-08-26 00:00:00.000,Friday,New Orleans,19:00,New Orleans Saints,NO,Pittsburgh Steelers,PIT,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,85.0,Partly Cloudy
+48,2016,Pre,4,2016-08-25 00:00:00.000,Thursday,Orlando,20:00,Miami Dolphins,MIA,Atlanta Falcons,ATL,Camping World Stadium,Outdoor,Artificial,Partly Cloudy,85.0,
+49,2016,Pre,4,2016-08-26 00:00:00.000,Friday,Tampa Bay,20:00,Tampa Bay Buccaneers,TB,Cleveland Browns,CLV,Raymon James Stadium,Outdoor,Natural Grass,Cloudy,83.0,Cloudy
+50,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Atlanta,19:00,Atlanta Falcons,ATL,Jacksonville Jaguars,JAX,Georgia Dome,"Indoor, Non-Retractable Dome",FieldTurf,,,"Overcast, muggy"
+51,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Minneapolis,19:00,Minnesota Vikings,MIN,Los Angeles Rams,LA,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+52,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,East Rutherford,19:00,New York Giants,NYG,New England Patriots,NE,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,76.0,
+53,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Philadelphia,19:00,Philadelphia Eagles,PHI,New York Jets,NYJ,Lincoln Financial Field,Open,Grass,Cloudy,79.0,
+54,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Charlotte,19:30,Carolina Panthers,CAR,Pittsburgh Steelers,PIT,Bank of America Stadium,Outdoors ,Natural Grass ,Cloudy,73.0,
+55,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,San Diego,19:00,San Diego Chargers,SD,San Francisco 49ers,SF,Qualcomm Stadium,,Grass,,71.0,
+56,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Oakland,19:00,Oakland Raiders,OAK,Seattle Seahawks,SEA,Oakland Alameda County Coliseum,Outdoor,Grass,Party Cloudy,63.0,Party Cloudy
+57,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Miami Gardens,19:00,Miami Dolphins,MIA,Tennessee Titans,TEN,Hard Rock Stadium,Outdoor,Natural Grass,Mostly Cloudy,88.0,
+58,2016,Pre,5,2016-08-31 00:00:00.000,Wednesday,Tampa Bay,20:00,Tampa Bay Buccaneers,TB,Washington Redskins,WAS,Raymond James Stadium,Outdoor,Natural Grass,Rain,75.0,Rain
+59,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,New Orleans,19:00,New Orleans Saints,NO,Baltimore Ravens,BLT,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,92.0,Partly Cloudy
+60,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Detroit,19:30,Detroit Lions,DET,Buffalo Bills,BUF,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"72 deg F, Winds NNE 12 mph, Humidity 59%"
+61,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Cleveland,20:00,Cleveland Browns,CLV,Chicago Bears,CHI,FirstEnergy Stadium,Outdoor,Grass,Sunny,73.0,Sunny
+62,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Glendale,18:30,Arizona Cardinals,ARZ,Denver Broncos,DEN,University of Phoenix Stadium,Dome,Grass,Indoor,,
+63,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Kansas City,19:00,Kansas City Chiefs,KC,Green Bay Packers,GB,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,77.0,
+64,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Arlington,19:00,Dallas Cowboys,DAL,Houston Texans,HST,AT&T,Indoor,Artificial,,,T: 82; H: 66%; W: ENE: 21
+65,2016,Pre,5,2016-09-01 00:00:00.000,Thursday,Cincinnati,19:30,Cincinnati Bengals,CIN,Indianapolis Colts,IND,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Mostly Sunny,74.0,
+66,2016,Reg,1,2016-09-08 00:00:00.000,Thursday,Denver,18:30,Denver Broncos,DEN,Carolina Panthers,CAR,Sports Authority Field at Mile High,Outdoor,Grass,Sunny and Clear,85.0,Falling to lows 70s
+67,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Tampa Bay Buccaneers,TB,Georgia Dome,Dome,FieldTurf,,,Sunny
+68,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Buffalo Bills,BUF,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,84.0,Partly Cloudy
+69,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Chicago Bears,CHI,NRG Stadium,Retractable Roof,Artificial,Sunny,84.0,Sunny
+70,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Green Bay Packers,GB,EverBank Field,Open,Grass,,90.0,10% Chance of Rain
+71,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,San Diego Chargers,SD,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,74.0,
+72,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Oakland Raiders,OAK,Mercedes Benz-Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,87.0,Partly Cloudy
+73,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Cincinnati Bengals,CIN,MetLife,Outdoor,FieldTurf,Clear,79.0,79
+74,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Cleveland Browns,CLV,Lincoln Financial Field,Outdoor,Grass,Partly CLoudy,85.0,
+75,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Minnesota Vikings,MIN,Nissan Stadium,Outdoors,Grass,Sunny,76.0,Sunny
+76,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Seattle,13:05,Seattle Seahawks,SEA,Miami Dolphins,MIA,CenturyLink Field,outdoor,FieldTurf,Sunny,61.0,Sunny
+77,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Arlington,15:25,Dallas Cowboys,DAL,New York Giants,NYG,AT&T,Indoor,Artificial,,,T: 84; H: 35%; W: NW 2 mph
+78,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Indianapolis,16:25,Indianapolis Colts,IND,Detroit Lions,DET,Lucas Oil Stadium,Retr. Roof-Open,Artificial,Partly sunny,76.0,"Partly sunny, 76 degr. Wind S at 5 mph"
+79,2016,Reg,1,2016-09-11 00:00:00.000,Sunday,Glendale,17:30,Arizona Cardinals,ARZ,New England Patriots,NE,University of Phoenix Stadium,Dome,Grass,,,
+80,2016,Reg,1,2016-09-12 00:00:00.000,Monday,Landover,19:10,Washington Redskins,WAS,Pittsburgh Steelers,PIT,FedExField,Outdoor,Grass,Sunny,79.0,Sunny
+81,2016,Reg,1,2016-09-12 00:00:00.000,Monday,Santa Clara,19:20,San Francisco 49ers,SF,Los Angeles Rams,LA,Levis Stadium,Outdoor,Natural Grass,Clear,66.0,Clear
+82,2016,Reg,2,2016-09-15 00:00:00.000,Thursday,Orchard Park,20:25,Buffalo Bills,BUF,New York Jets,NYJ,New Era Field,Outdoors,A-Turf Titan,Partly Cloudy,60.0,"Forecast: Temps in low 60s, clear skies, light winds"
+83,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,San Francisco 49ers,SF,Bank of America Stadium,Outdoors,Natural Grass,Sunny,82.0,
+84,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Baltimore Ravens,BLT,FirstEnergy Stadium,Outdoor,Grass,,74.0,Sunny
+85,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Tennessee Titans,TEN,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"73 deg F, Winds SW at 4mph, Humidy 72%"
+86,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Kansas City Chiefs,KC,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,91.0,Partly Cloudy
+87,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Miami Dolphins,MIA,Gillette Stadium,Outdoor,Field Turf,"Cloudy, Humid, Chance of Rain",79.0,
+88,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,New Orleans Saints,NO,MetLife Stadium,,UBU Speed Series-S5-M,Mostly Cloudy,80.0,
+89,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,Cincinnati Bengals,CIN,Heinz Field,Outdoors,Grass,Cloudy,72.0,Rain
+90,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Dallas Cowboys,DAL,FedExField,Outdoor,Grass,Sunny,81.0,Sunny
+91,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Glendale,13:05,Arizona Cardinals,ARZ,Tampa Bay Buccaneers,TB,University of Phoenix Stadium,Dome,Grass,,,
+92,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Seattle Seahawks,SEA,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,88.0,Sunny
+93,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Indianapolis Colts,IND,Sports Authority Field at Mile High,Outdoor,Grass,Sunny,85.0,Sunny
+94,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,Atlanta Falcons,ATL,Oakland Alameda County Coliseum,Outdoor,Grass,Sunny,79.0,Sunny Skies
+95,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,Jacksonville Jaguars,JAX,Qualcomm Stadium,,Grass,Sunny,82.0,
+96,2016,Reg,2,2016-09-18 00:00:00.000,Sunday,Minneapolis,19:30,Minnesota Vikings,MIN,Green Bay Packers,GB,U.S. Bank Stadium,Indoor,Field Turf,Indoors,77.0,
+97,2016,Reg,2,2016-09-19 00:00:00.000,Monday,Chicago,19:30,Chicago Bears,CHI,Philadelphia Eagles,PHI,Soldier Field,Outdoor,Grass,Mostly Cloudy,84.0,
+98,2016,Reg,3,2016-09-22 00:00:00.000,Thursday,Foxborough,20:25,New England Patriots,NE,Houston Texans,HST,Gillette Stadium,Outdoor,Field Turf,Clear,68.0,
+99,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Arizona Cardinals,ARZ,New Era Field,Outdoors,A-Turf Titan,Sunny,64.0,"Forecast: plentiful sunshine, high temp 67, winds 5-10 mph"
+100,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Minnesota Vikings,MIN,Bank of America Stadium,Outdoors,Natural Grass,Partly Cloudy,80.0,
+101,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Denver Broncos,DEN,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Sunny,81.0,
+102,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Green Bay,12:00,Green Bay Packers,GB,Detroit Lions,DET,Lambeau Field,Outdoor,DD GrassMaster,,72.0,
+103,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Baltimore Ravens,BLT,EverBank Field,Open,Grass,,88.0,40% Chance of Rain
+104,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Cleveland Browns,CLV,Hard Rock Stadium,Outdoor,Natural Grass,,86.0,Partly Cloudy
+105,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Washington Redskins,WAS,MetLife Stadium,,UBU Speed Series-S5-M,Sunny,67.0,
+106,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Oakland Raiders,OAK,Nissan Stadium,Outdoors,Grass,Sunny,89.0,Sunny
+107,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Seattle,13:05,Seattle Seahawks,SEA,San Francisco 49ers,SF,CenturyLink Field,Outdoor,FieldTurf,Sunny,66.0,
+108,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Tampa Bay,16:05,Tampa Bay Buccaneers,TB,Los Angeles Rams,LA,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,91.0,Cloudy
+109,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Indianapolis,16:25,Indianapolis Colts,IND,San Diego Chargers,SD,Lucas Oil Stadium,Retr. Roof-Closed,Artificial,Cloudy,85.0,"Cloudy, 85 degr. Wind SSW@ 8 mph"
+110,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Kansas City,15:25,Kansas City Chiefs,KC,New York Jets,NYJ,Arrowhead Stadium,Outdoor,Natural Grass,,65.0,
+111,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Philadelphia,16:25,Philadelphia Eagles,PHI,Pittsburgh Steelers,PIT,Lincoln Financial Field,Outdoor,Grass,Sunny,73.0,Sunny
+112,2016,Reg,3,2016-09-25 00:00:00.000,Sunday,Arlington,19:30,Dallas Cowboys,DAL,Chicago Bears,CHI,AT&T,Indoors,Artificial,,,T: 77; H: 83%; W: NE 6 mph
+113,2016,Reg,3,2016-09-26 00:00:00.000,Monday,New Orleans,19:30,New Orleans Saints,NO,Atlanta Falcons,ATL,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,90.0,Partly Cloudy
+114,2016,Reg,4,2016-09-29 00:00:00.000,Thursday,Cincinnati,20:25,Cincinnati Bengals,CIN,Miami Dolphins,MIA,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Mostly Cloudy,62.0,
+115,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,London,14:30,Jacksonville Jaguars,JAX,Indianapolis Colts,IND,Wembley Stadium,Outdoor,Grass,Sunny Intervals,59.0,Sunny Intervals
+116,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Carolina Panthers,CAR,Georgia Dome,Indoor,FieldTurf,,,"Clear, temperate"
+117,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Oakland Raiders,OAK,M&T Bank Stadium,Outdoor,Natural Grass,Cloudy,65.0,Cloudy
+118,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Detroit Lions,DET,Solider Field,Outdoor,Natural Grass,Cloudy,62.0,
+119,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Tennessee Titans,TEN,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,82.0,Partly Cloudy
+120,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Buffalo Bills,BUF,Gillette Stadium,Outdoor,Field Turf,Cloudy,56.0,
+121,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Seattle Seahawks,SEA,MetLife,Outdoor,FieldTurf,,61.0,Cloudy
+122,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Cleveland Browns,CLV,FedExField,Outdoor,Grass,Cloudy,67.0,Cloudy
+123,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Tampa Bay,16:05,Tampa Bay Buccaneers,TB,Denver Broncos,DEN,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,88.0,Cloudy
+124,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Glendale,13:25,Arizona Cardinals,ARZ,Los Angeles Rams,LA,University of Phoenix Stadium,Dome,Grass,,,
+125,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,New Orleans Saints,NO,Qualcomm Stadium,,Grass,Fair,74.0,
+126,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,Dallas Cowboys,DAL,Levis Stadium,Outdoor,Natural Grass,Cloudy,68.0,Cloudy
+127,2016,Reg,4,2016-10-02 00:00:00.000,Sunday,Pittsburgh,20:30,Pittsburgh Steelers,PIT,Kansas City Chiefs,KC,Heinz Field,Outdoors,Grass,Rain,59.0,Rain
+128,2016,Reg,4,2016-10-03 00:00:00.000,Monday,Minneapolis,19:30,Minnesota Vikings,MIN,New York Giants,NYG,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+129,2016,Reg,5,2016-10-06 00:00:00.000,Thursday,Santa Clara,17:25,San Francisco 49ers,SF,Arizona Cardinals,ARZ,Levis Stadium,Outdoor,Natural grass,Clear,75.0,
+130,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Washington Redskins,WAS,M & T Bank Stadium,Outdoor,Natural,Partly Cloudy,62.0,Sunny
+131,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,New England Patriots,NE,FirstEnergy Stadium,Outdoor,Grass,Sunny,58.0,Sunny
+132,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Philadelphia Eagles,PHI,Ford Field,Indoors,Field Turf,Controlled,68.0,"55 deg F, Winds N at 7mph, Humidity 59%"
+133,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Chicago Bears,CHI,Lucas Oil Stadium,Retr. Roof - Open,Artificial,Mostly Sunny,60.0,"Mostly Sunny, 60 degr. Wind N at 5 mph"
+134,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Tennessee Titans,TEN,Hard Rock Stadium,Outdoor,Natural Grass,Partly Cloudy,88.0,
+135,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Houston Texans,HST,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+136,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,New York Jets,NYJ,Heinz Field,Outdoors,Grass,Partly Cloudy,57.0,Partly Cloudy
+137,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Denver,14:05,Denver Broncos,DEN,Atlanta Falcons,ATL,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,72.0,Mostly Cloudy
+138,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Arlington,15:25,Dallas Cowboys,DAL,Cincinnati Bengals,CIN,AT&T,Indoors,Artificial,,,T: 73; H: 29%; W: NNE 8 mph
+139,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,Buffalo Bills,BUF,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,91.0,Sunny
+140,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,San Diego Chargers,SD,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny Skies,75.0,Sunny
+141,2016,Reg,5,2016-10-09 00:00:00.000,Sunday,Green Bay,19:30,Green Bay Packers,GB,New York Giants,NYG,Lambeau Field,Outdoor,DD GrassMaster,,49.0,
+142,2016,Reg,5,2016-10-10 00:00:00.000,Monday,Charlotte,20:30,Carolina Panthers,CAR,Tampa Bay Buccaneers,TB,Bank of America Stadium,Outdoors,Natural Grass,Clear,66.0,
+143,2016,Reg,6,2016-10-13 00:00:00.000,Thursday,San Diego,17:25,San Diego Chargers,SD,Denver Broncos,DEN,Qualcomm Stadium,,Grass,Fair,70.0,
+144,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,San Francisco 49ers,SF,New Era Field,Outdoors,A-Turf Titan,Mostly cloudy,72.0,"Forecast: cloudy & breezy, 30% chance of showers"
+145,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Jacksonville Jaguars,JAX,Solider Field,Outdoor,Natural Grass,Cloudy,69.0,
+146,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Los Angeles Rams,LA,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"64 deg F, Winds WSW at 13mph, Humidity 88%"
+147,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Pittsburgh Steelers,PIT,Hard Rock Stadium,Outdoor,Natural Grass,Partly Sunny,81.0,
+148,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Cincinnati Bengals,CIN,Gillette Stadium,Outdoor,Field Turf,Sunny,66.0,
+149,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Carolina Panthers,CAR,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,80.0,Partly Cloudy
+150,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Baltimore Ravens,BLT,MetLife Stadium,Outdoor,UBU Speed Series-S5-M,Partly Cloudy,66.0,
+151,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Cleveland Browns,CLV,Nissan Stadium,Outdoors,Grass,Sunny,75.0,Sunny
+152,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Philadelphia Eagles,PHI,FedExField,Outdoor,Grass,Sunny,69.0,Sunny
+153,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Oakland,13:05,Oakland Raiders,OAK,Kansas City Chiefs,KC,Oakland-Alameda County Coliseum,Outdoor,Grass,Rain,61.0,Rain
+154,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Green Bay,15:25,Green Bay Packers,GB,Dallas Cowboys,DAL,Lambeau Field,Outdoor,DD GrassMaster,,69.0,
+155,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Seattle,13:25,Seattle Seahawks,SEA,Atlanta Falcons,ATL,CenturyLink Field,Outdoor,FieldTurf,Rain,54.0,Cloudy
+156,2016,Reg,6,2016-10-16 00:00:00.000,Sunday,Houston,19:30,Houston Texans,HST,Indianapolis Colts,IND,NRG Stadium,Retractable Roof,Artificial,Clear,84.0,Clear
+157,2016,Reg,6,2016-10-17 00:00:00.000,Monday,Glendale,17:30,Arizona Cardinals,ARZ,New York Jets,NYJ,University of Phoenix Stadium,Dome,Grass,,,
+158,2016,Reg,7,2016-10-20 00:00:00.000,Thursday,Green Bay,19:25,Green Bay Packers,GB,Chicago Bears,CHI,Lambeau Field,Outdoor,DD GrassMaster,,47.0,
+159,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,London,14:30,Los Angeles Rams,LA,New York Giants,NYG,Twickenham,Outdoor,Grass,Sunny intervals,55.0,Sunny Intervals
+160,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Cleveland Browns,CLV,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Sunny,65.0,
+161,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Washington Redskins,WAS,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"54 deg F, Winds W at 6mph, Humidy 73%"
+162,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Oakland Raiders,OAK,EverBank Field,Open,Grass,,70.0,0% Chance of Rain
+163,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,New Orleans Saints,NO,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,68.0,
+164,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Buffalo Bills,BUF,Hard Rock Stadium,Outdoor,Natural Grass,Partly Sunny,81.0,
+165,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Baltimore Ravens,BLT,MetLife,Outdoor,FieldTurf,,58.0,
+166,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Minnesota Vikings,MIN,Lincoln Financial Field,Outdoor,Grass,Clear,62.0,
+167,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Indianapolis Colts,IND,Nissan Stadium,Outdoors,Grass,Sunny,68.0,Sunny
+168,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Atlanta,16:05,Atlanta Falcons,ATL,San Diego Chargers,SD,Georgia Dome,Indoor,FieldTurf,,,"Clear, seasonal"
+169,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,Tampa Bay Buccaneers,TB,Levis Stadium,Outdoor,Natural grass,Clear,68.0,Clear
+170,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,New England Patriots,NE,Heinz Field,Outdoors,Grass,Sunny,63.0,Sunny
+171,2016,Reg,7,2016-10-23 00:00:00.000,Sunday,Glendale,17:30,Arizona Cardinals,ARZ,Seattle Seahawks,SEA,University of Phoenix Stadium,Dome,Grass,,,
+172,2016,Reg,7,2016-10-24 00:00:00.000,Monday,Denver,18:30,Denver Broncos,DEN,Houston Texans,HST,Sports Authority Field at Mile High,Outdoor,Grass,Partly Cloudy,71.0, Low to mid 50s by game end
+173,2016,Reg,8,2016-10-27 00:00:00.000,Thursday,Nashville,19:25,Tennessee Titans,TEN,Jacksonville Jaguars,JAX,Nissan Stadium,Outdoors,Grass,Clear,71.0,Clear
+174,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,London,13:30,Cincinnati Bengals,CIN,Washington Redskins,WAS,Wembley,Outdoor,Grass,Cloudy,54.0,Cloudy
+175,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Atlanta,16:25,Atlanta Falcons,ATL,Green Bay Packers,GB,Georgia Dome,Indoor,FieldTurf,,,Sunny
+176,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,New England Patriots,NE,New Era Field,Outdoors,A-Turf Titan,Rain,49.0,"Forecast: 100% chance of showers, high temp 52, winds 9-13 mph"
+177,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,New York Jets,NYJ,FirstEnergy Stadium,Outdoor,Grass,Rain,53.0,Rain
+178,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Detroit Lions,DET,NRG Stadiium,Retractable Roof,Artificial,Mostly Sunny,80.0,Mostly Sunny
+179,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Kansas City Chiefs,KC,Lucas Oil Stadium,Retr. roof - closed,Artificial,Partly sunny,68.0,"Partly sunny, 68 degr. Wind NW at 9 mph"
+180,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Seattle Seahawks,SEA,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Sunny,80.0,Sunny
+181,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Oakland Raiders,OAK,Raymond James Stadium,Outdoor,Natural Grass,Clear,86.0,Clear
+182,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Denver,14:05,Denver Broncos,DEN,San Diego Chargers,SD,Sports Authority Field at Mile High,Outdoor,Grass,Partly Cloudy,76.0,Falling to 70 by Game End
+183,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Arizona Cardinals,ARZ,Bank of America Stadium,Outdoors,Natural Grass,Sunny,85.0,
+184,2016,Reg,8,2016-10-30 00:00:00.000,Sunday,Arlington,19:30,Dallas Cowboys,DAL,Philadelphia Eagles,PHI,AT&T,Indoor,Artificial,Clear Skies,84.0,
+185,2016,Reg,8,2016-10-31 00:00:00.000,Monday,Chicago,19:30,Chicago Bears,CHI,Minnesota Vikings,MIN,Soldier Field,Outdoor,Natural Grass,Cloudy,58.0,
+186,2016,Reg,9,2016-11-03 00:00:00.000,Thursday,Tampa Bay,20:25,Tampa Bay Buccaneers,TB,Atlanta Falcons,ATL,Raymond James Stadium,Outdoor,Natural Grass,Clear,76.0,Clear
+187,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Pittsburgh Steelers,PIT,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,65.0,Partly Cloudy
+188,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Dallas Cowboys,DAL,FirstEnergy Stadium,Outdoor,Grass,,58.0,Sunny
+189,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Jacksonville Jaguars,JAX,Arrowhead Stadium,Outdoor,Natural Grass,,62.0,
+190,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,New York Jets,NYJ,Hard Rock Stadium,Outdoor,Natural grass,Cloudy,80.0,
+191,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Detroit Lions,DET,US Bank Stadium,Indoor,Field Turf,Indoors,,
+192,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Philadelphia Eagles,PHI,MetLife Stadium,,UBU Speed Series-S5-M,Partly Cloudy,56.0,
+193,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Carolina Panthers,CAR,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,75.0,Sunny
+194,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,New Orleans Saints,NO,Levis Stadium,Outdoor,Natural Grass,Mostly Sunny,70.0,Mostly Sunny
+195,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Green Bay,15:25,Green Bay Packers,GB,Indianapolis Colts,IND,Lambeau Field,Outdoor,DD GrassMaster,,68.0,
+196,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,Tennessee Titans,TEN,Qualcomm Stadium,,Grass,Partly Cloudy,76.0,
+197,2016,Reg,9,2016-11-06 00:00:00.000,Sunday,Oakland,17:30,Oakland Raiders,OAK,Denver Broncos,DEN,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Partly Cloudy,65.0,Partly Cloudy
+198,2016,Reg,9,2016-11-07 00:00:00.000,Monday,Seattle,17:30,Seattle Seahawks,SEA,Buffalo Bills,BUF,CenturyLink Field,Outdoor,FieldTurf,Cloudy,61.0,Cloudy
+199,2016,Reg,10,2016-11-10 00:00:00.000,Thursday,Baltimore,20:25,Baltimore Ravens,BLT,Cleveland Browns,CLV,M & T Bank Stadium,Outdoor,Natural Grass,Fair,54.0,Clear
+200,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Kansas City Chiefs,KC,Bank of America Stadium,Outdoors,Natural Grass,Cloudy,45.0,
+201,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Houston Texans,HST,EverBank Field,Open,Grass,,69.0,0% Chance of Rain
+202,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Denver Broncos,DEN,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,62.0,Partly Cloudy
+203,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Los Angeles Rams,LA,MetLife,Outdoor,FieldTurf,,62.0,
+204,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Atlanta Falcons,ATL,Lincoln Financial Field,Outdoor,Grass,Sunny,58.0,
+205,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Chicago Bears,CHI,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,81.0,Cloudy
+206,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Green Bay Packers,GB,Nissan Stadium,Outdoors,Grass,Sunny,56.0,Sunny
+207,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Minnesota Vikings,MIN,FedExField,Outdoor,Grass,Sunny,58.0,Sunny
+208,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,San Diego,13:05,San Diego Chargers,SD,Miami Dolphins,MIA,Qualcomm Stadium,,Grass,Sunny,85.0,
+209,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Glendale,14:25,Arizona Cardinals,ARZ,San Francisco 49ers,SF,University of Phoeinx Stadium,Dome,Grass,,,
+210,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,Dallas Cowboys,DAL,Heinz Field,Outdoors,Grass,Sunny,56.0,Sunny
+211,2016,Reg,10,2016-11-13 00:00:00.000,Sunday,Foxborough,20:30,New England Patriots,NE,Seattle Seahawks,SEA,Gillette Stadium,Outdoor,Field Turf,Clear and cool,43.0,
+212,2016,Reg,10,2016-11-14 00:00:00.000,Monday,East Rutherford,20:30,New York Giants,NYG,Cincinnati Bengals,CIN,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,56.0,
+213,2016,Reg,11,2016-11-17 00:00:00.000,Thursday,Charlotte,20:25,Carolina Panthers,CAR,New Orleans Saints,NO,Bank of America Stadium ,Outdoors ,Natural Grass ,Clear,63.0,
+214,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Buffalo Bills,BUF,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,36.0,
+215,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Pittsburgh Steelers,PIT,FirstEnergy Stadium,Outdoor,Grass,Cloudy,36.0,Cloudy
+216,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Arlington,12:00,Dallas Cowboys,DAL,Baltimore Ravens,BLT,AT&T Stadium,Indoor,Artificial,,,T: 56 H: 30% W: S 13
+217,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Jacksonville Jaguars,JAX,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"32 deg F, Winds NW at 16mph, Humidity 63%"
+218,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Tennessee Titans,TEN,Lucas Oil,Retr. Roof - Closed,Artificial,Partly Cloudy,34.0,"Partly cloudy, 34 degr. Wind WNW at 10 mph"
+219,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Tampa Bay Buccaneers,TB,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,46.0,
+220,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Arizona Cardinals,ARZ,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+221,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Chicago Bears,CHI,MetLife Stadium,,UBU Speed Series-S5-M,Mostly Cloudy,41.0,
+222,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Miami Dolphins,MIA,Los Angeles Memorial Coliseum,Outdoor,Grass,Rain,63.0,Rain
+223,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,New England Patriots,NE,Levis Stadium,Outdoor,Natural Grass,Cloudy with rain,64.0,
+224,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Seattle,13:25,Seattle Seahawks,SEA,Philadelphia Eagles,PHI,CenturyLink Field,Outdoor,FieldTurf,Rain,54.0,
+225,2016,Reg,11,2016-11-20 00:00:00.000,Sunday,Landover,20:30,Washington Redskins,WAS,Green Bay Packers,GB,FedExField,Outdoor,Grass,Clear,38.0,Clear
+226,2016,Reg,11,2016-11-21 00:00:00.000,Monday,Mexico,19:30,Oakland Raiders,OAK,Houston Texans,HST,Estadio Azteca,Outdoor,Natural Grass,Clear,63.0,Clear
+227,2016,Reg,12,2016-11-24 00:00:00.000,Thursday,Detroit,12:30,Detroit Lions,DET,Minnesota Vikings,MIN,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"44 deg F, Winds W at 9mph, Humidity 95%"
+228,2016,Reg,12,2016-11-24 00:00:00.000,Thursday,Arlington,15:30,Dallas Cowboys,DAL,Washington Redskins,WAS,AT&T Stadium,Indoor,Artificial,,,T: 70; H: 39; W: S9
+229,2016,Reg,12,2016-11-24 00:00:00.000,Thursday,Indianapolis,20:30,Indianapolis Colts,IND,Pittsburgh Steelers,PIT,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Cloudy,39.0,"Cloudy, 39 degr. Wind W @ 9 mph"
+230,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Arizona Cardinals,ARZ,Georgia Dome,"Indoor, non-retractable roof",FieldTurf,,,Partly cloudy
+231,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Cincinnati Bengals,CIN,M&T Bank Stadium,Outdoor,Natural Grass,Sunny,50.0,
+232,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Jacksonville Jaguars,JAX,New Era Field,Outdoors,A-Turf Titan,Mostly cloudy,42.0,"Forecast: partly sunny, high temp 42; winds 8-10 mph"
+233,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Tennessee Titans,TEN,Solidier Field,Outdoor,Natural Grass,Cloudy,40.0,
+234,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,New York Giants,NYG,FirstEnergy Stadium,Outdoor,Grass,Sunny,48.0,
+235,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,San Diego Chargers,SD,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,71.0,Partly Cloudy
+236,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,San Francisco 49ers,SF,Hard Rock Stadium,Outdoor,,Partly Cloudy,79.0,
+237,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Los Angeles Rams,LA,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,61.0,Partly Cloudy
+238,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Tampa Bay,16:05,Tampa Bay Buccaneers,TB,Seattle Seahawks,SEA,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,81.0,Cloudy
+239,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Denver,18:30,Denver Broncos,DEN,Kansas City Chiefs,KC,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,44.0,Falling to mid 30s. Gusts 15 to 30
+240,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,Carolina Panthers,CAR,Oakland-Alameda County Coliseum,Outdoor,Grass,Partly Cloudy,59.0,Partly Cloudy
+241,2016,Reg,12,2016-11-27 00:00:00.000,Sunday,East Rutherford,16:25,New York Jets,NYJ,New England Patriots,NE,MetLife,Outdoor,FieldTurf,Cloudy,47.0,Partly Cloudy
+242,2016,Reg,12,2016-11-28 00:00:00.000,Monday,Philadelphia,20:30,Philadelphia Eagles,PHI,Green Bay Packers,GB,Lincoln Financial Field,Outdoor,Grass,Cloudy,47.0,Cloudy
+243,2016,Reg,13,2016-12-01 00:00:00.000,Thursday,Minneapolis,19:25,Minnesota Vikings,MIN,Dallas Cowboys,DAL,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+244,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Kansas City Chiefs,KC,Georgia Dome,Indoor,FieldTurf,,,"Rainy, gloomy"
+245,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Miami Dolphins,MIA,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,47.0,Partly Cloudy
+246,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,San Francisco 49ers,SF,Soldier Field,Outdoor,Natural Grass,"Snow Showers, 3 to 5 inches expected.",33.0,
+247,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Philadelphia Eagles,PHI,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Cloudy,42.0,
+248,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Green Bay,12:00,Green Bay Packers,GB,Houston Texans,HST,Lambeau Field,Outdoor,DD GrassMaster,,32.0,
+249,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Denver Broncos,DEN,EverBank Field,Open,Grass,,70.0,20% Chance of Rain
+250,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Los Angeles Rams,LA,Gillette Stadium,Outdoor,Field Turf,Sunny and cool,39.0,
+251,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Detroit Lions,DET,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Cloudy,68.0,Cloudy
+252,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Oakland,13:05,Oakland Raiders,OAK,Buffalo Bills,BUF,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Partly Cloudy,59.0,Partly Cloudy
+253,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Glendale,14:25,Arizona Cardinals,ARZ,Washington Redskins,WAS,University of Phoenix Stadium,Dome,Grass,,68.0,Sunny
+254,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,New York Giants,NYG,Heinz Field,Outdoors,Grass,Cloudy,43.0,Cloudy
+255,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,Tampa Bay Buccaneers,TB,Qualcomm Stadium,,Grass,Sunny,72.0,
+256,2016,Reg,13,2016-12-04 00:00:00.000,Sunday,Seattle,17:30,Seattle Seahawks,SEA,Carolina Panthers,CAR,CenturyLink Field,Outdoor,FieldTurf,Partly Cloudy,37.0,Partly Cloudy
+257,2016,Reg,13,2016-12-05 00:00:00.000,Monday,East Rutherford,20:30,New York Jets,NYJ,Indianapolis Colts,IND,MetLife,Outdoor,FieldTurf,Clear,45.0,Clear
+258,2016,Reg,14,2016-12-08 00:00:00.000,Thursday,Kansas City,19:25,Kansas City Chiefs,KC,Oakland Raiders,OAK,Arrowhead Stadium,Outdoor,Natural Grass,Clear,21.0,
+259,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Pittsburgh Steelers,PIT,New Era Field,Outdoors,A-Turf Titan,Snow showers,27.0,"Forecast: cloudy with snow showers, high temp 30, winds SSE at 10-15 mph"
+260,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,San Diego Chargers,SD,Bank of America Stadium,Outdoors,Natural Grass,Cloudy,37.0,
+261,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Cincinnati Bengals,CIN,FirstEnergy Stadium,Outdoor,Grass,Snow,28.0,Cold
+262,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Chicago Bears,CHI,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"28 deg F, Winds S at 12mph, Humidity 92%"
+263,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Houston Texans,HST,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Cloudy,34.0,"Cloudy, 34 degr. Wind S at 12 mph"
+264,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Minnesota Vikings,MIN,EverBank Field,Open,Grass,,71.0,10% Chance of Rain
+265,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Arizona Cardinals,ARZ,Hard Rock Stadium,Outdoor,Natrual Grass,Cloudy,77.0,
+266,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Washington Redskins,WAS,Lincoln Financial Field,Outdoor,Grass,Cloudy,35.0,
+267,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Tampa Bay,16:25,Tampa Bay Buccaneers,TB,New Orleans Saints,NO,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,79.0,Cloudy
+268,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Denver Broncos,DEN,Nissan Stadium,Outdoors,Grass,Sunny,50.0,Sunny
+269,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,New York Jets,NYJ,Levis Stadium,Outdoor,Natural Grass,Mostly Cloudy,54.0,Mostly Cloudy
+270,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Green Bay,15:25,Green Bay Packers,GB,Seattle Seahawks,SEA,Lambeau Field,Outdoor,DD GrassMaster,,26.0,
+271,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,Atlanta Falcons,ATL,Los Angeles Memorial Coliseum,Outdoor,Grass,Cloudy,65.0,Cloudy
+272,2016,Reg,14,2016-12-11 00:00:00.000,Sunday,East Rutherford,20:30,New York Giants,NYG,Dallas Cowboys,DAL,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,32.0,
+273,2016,Reg,14,2016-12-12 00:00:00.000,Monday,Foxborough,20:30,New England Patriots,NE,Baltimore Ravens,BLT,Gillette Stadium,Outdoor,Field Turf,Clear,31.0,
+274,2016,Reg,15,2016-12-15 00:00:00.000,Thursday,Seattle,17:25,Seattle Seahawks,SEA,Los Angeles Rams,LA,CenturyLink Field,Outdoor,FieldTurf,Partly cloudy,36.0,
+275,2016,Reg,15,2016-12-17 00:00:00.000,Saturday,East Rutherford,20:25,New York Jets,NYJ,Miami Dolphins,MIA,MetLife,Outdoor,FieldTurf,Cloudy,35.0,Cloudy
+276,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Philadelphia Eagles,PHI,M&T Bank Stadium,Outdoor,Natural,Cloudy,62.0,Cloudy
+277,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Cleveland Browns,CLV,New Era Field,Outdoors,A-Turf Titan,Cloudy,26.0,"Forecast: variably cloudy, hi temp 26; winds 10-20 mph, 40% chance of snow"
+278,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Green Bay Packers,GB,Soldier Field,Outdoor,Grass,Sunny,11.0,
+279,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Arlington,19:30,Dallas Cowboys,DAL,Tampa Bay Buccaneers,TB,AT&T,Indoors,Artificial,,,T: 26; H: 39%; W: N13
+280,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Jacksonville Jaguars,JAX,NRG Stadium,Retractable Roof,Artificial,Cloudy,37.0,Cloudy
+281,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Tennessee Titans,TEN,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,1.0,
+282,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Indianapolis Colts,IND,U.S. Bank Stadium,Indoor,Field Turf,Indoors,,
+283,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Detroit Lions,DET,MetLife Stadium,,UBU Speed Series-S5-M,Rain,55.0,
+284,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Glendale,14:05,Arizona Cardinals,ARZ,New Orleans Saints,NO,University of Phoenix Stadium,Dome,Grass,Sunny,62.0,
+285,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Atlanta,16:05,Atlanta Falcons,ATL,San Francisco 49ers,SF,Georgia Dome,Indoor,FieldTurf,,,Cloudy
+286,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,New England Patriots,NE,Sports Authority Field at Mile High,Outdoor,Grass,Sunny,18.0,Hazy Skies
+287,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,Oakland Raiders,OAK,Qualcomm Stadium,,Grass,Sunny,62.0,
+288,2016,Reg,15,2016-12-18 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Pittsburgh Steelers,PIT,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Cloudy,24.0,
+289,2016,Reg,15,2016-12-19 00:00:00.000,Monday,Landover,20:30,Washington Redskins,WAS,Carolina Panthers,CAR,FedExField,Outdoor,Grass,Clear,32.0,Clear
+290,2016,Reg,16,2016-12-22 00:00:00.000,Thursday,Philadelphia,20:25,Philadelphia Eagles,PHI,New York Giants,NYG,Lincoln Financial Field,Outdoor,Grass,Partly Cloudy,40.0,Cloudy
+291,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Orchard Park,13:00,Buffalo Bills,BUF,Miami Dolphins,MIA,New Era Field,Outdoors,A-Turf Titan,Cloudy,38.0,"Forecast: mostly cloudy, 30% chance of showers, high temp 38, winds W 13-16 mph"
+292,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Charlotte,13:00,Carolina Panthers,CAR,Atlanta Falcons,ATL,Bank of America,Outdoors,Natural Grass,Cloudy,56.0,
+293,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Chicago,12:00,Chicago Bears,CHI,Washington Redskins,WAS,Soldier Field,Outdoor,Grass,"Cloudy, steady temps",37.0,
+294,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Cleveland,13:00,Cleveland Browns,CLV,San Diego Chargers,SD,FirstEnergy Stadium,Outdoor,Grass,Cloudy,38.0,Cloudy
+295,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Green Bay,12:00,Green Bay Packers,GB,Minnesota Vikings,MIN,Lambeau Field,Outdoor,DD GrassMaster,,37.0,
+296,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Tennessee Titans,TEN,EverBank Field,Open,Grass,,67.0,Slight Chance of Rain
+297,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Foxborough,13:00,New England Patriots,NE,New York Jets,NYJ,Gillette Stadium,Outdoor,Field Turf,Rain,40.0,
+298,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,New Orleans,15:25,New Orleans Saints,NO,Tampa Bay Buccaneers,TB,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Mostly Cloudy,76.0,Mostly Cloudy
+299,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Oakland,13:05,Oakland Raiders,OAK,Indianapolis Colts,IND,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,50.0,Sunny Skies
+300,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Los Angeles,13:25,Los Angeles Rams,LA,San Francisco 49ers,SF,Los Angeles Memorial Coliseum,Outdoor,Grass,Partly Cloudy,59.0,Partly Cloudy
+301,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Seattle,13:25,Seattle Seahawks,SEA,Arizona Cardinals,ARZ,CenturyLink Field,Outdoor,FieldTurf,Partly Cloudy,39.0,Partly Cloudy
+302,2016,Reg,16,2016-12-24 00:00:00.000,Saturday,Houston,19:25,Houston Texans,HST,Cincinnati Bengals,CIN,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,71.0,Partly Cloudy
+303,2016,Reg,16,2016-12-25 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,Baltimore Ravens,BLT,Heinz Field,Outdoor,Grass,Partly Cloudy,41.0,Partly Cloudy
+304,2016,Reg,16,2016-12-25 00:00:00.000,Sunday,Kansas City,19:30,Kansas City Chiefs,KC,Denver Broncos,DEN,Arrowhead Stadium,Outdoor,Natural Grass,"Cloudy, Rain",53.0,
+305,2016,Reg,16,2016-12-26 00:00:00.000,Monday,Arlington,19:30,Dallas Cowboys,DAL,Detroit Lions,DET,AT&T Stadium,Indoor,Artificial,,,T:68; H: 23; W: NNW 7 mph
+306,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Atlanta,16:25,Atlanta Falcons,ATL,New Orleans Saints,NO,Georgia Dome,"Indoor, fixed roof",FieldTurf,,,"Chilly, drizzle"
+307,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Baltimore Ravens,BLT,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,40.0,
+308,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Detroit,20:30,Detroit Lions,DET,Green Bay Packers,GB,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"33 deg F, Winds SE at 4 mph, Humidity 71%"
+309,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Jacksonville Jaguars,JAX,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Sunny,39.0,"Sunny, 39 degr. Wind N at 6 mph"
+310,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,New England Patriots,NE,Hard Rock Stadium,Outdoor,Natrual Grass,,80.0,Partly Cloudy
+311,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Chicago Bears,CHI,U.S. Bank Stadium,Indoor,Field Turf,Indoor,,
+312,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Buffalo Bills,BUF,MetLife Stadium,Outdoor,FieldTurf,Sunny,42.0,
+313,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Dallas Cowboys,DAL,Lincoln Financial Field,Outdoor,Grass,Sunny,50.0,
+314,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,Cleveland Browns,CLV,Heinz Field,Outdoors,Grass,Sunny,41.0,Sunny
+315,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Carolina Panthers,CAR,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,81.0,Cloudy
+316,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Houston Texans,HST,Nissan Stadium,Outdoors,Grass,Cloudy,52.0,Cloudy
+317,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Landover,16:25,Washington Redskins,WAS,New York Giants,NYG,FedExField,Outdoor,Grass,Sunny,53.0,Sunny
+318,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Oakland Raiders,OAK,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,45.0,Falling to 40 by game end
+319,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,Arizona Cardinals,ARZ,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,59.0,Sunny
+320,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,San Diego,13:25,San Diego Chargers,SD,Kansas City Chiefs,KC,Qualcomm Stadium,,Grass,Cloudy,59.0,
+321,2016,Reg,17,2017-01-01 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,Seattle Seahawks,SEA,Levis Stadium,Outdoor,Natural grass,Clear,54.0,Clear
+322,2016,Post,1,2017-01-07 00:00:00.000,Saturday,Houston,15:35,Houston Texans,HST,Oakland Raiders,OAK,NRG Stadium,Retractable Roof,Artificial,Sunny,40.0,Sunny
+323,2016,Post,1,2017-01-07 00:00:00.000,Saturday,Seattle,17:15,Seattle Seahawks,SEA,Detroit Lions,DET,CenturyLink Field,Outdoor,FieldTurf,Cloudy,38.0,Cloudy
+324,2016,Post,1,2017-01-08 00:00:00.000,Sunday,Pittsburgh,13:05,Pittsburgh Steelers,PIT,Miami Dolphins,MIA,Heinz Field,Outdoors,Grass,Partly Cloudy,17.0,Partly Cloudy
+325,2016,Post,1,2017-01-08 00:00:00.000,Sunday,Green Bay,15:40,Green Bay Packers,GB,New York Giants,NYG,Lambeau Field,Outdoor,DD GrassMaster,,14.0,
+326,2016,Post,2,2017-01-14 00:00:00.000,Saturday,Atlanta,16:35,Atlanta Falcons,ATL,Seattle Seahawks,SEA,Georgia Dome,Indoor,FieldTurf,,,"Partly cloudy, unseasonably warm"
+327,2016,Post,2,2017-01-14 00:00:00.000,Saturday,Foxborough,20:15,New England Patriots,NE,Houston Texans,HST,Gillette Stadium,Outdoor,Field Turf,Cloudy and Cold,28.0,
+328,2016,Post,2,2017-01-15 00:00:00.000,Sunday,Kansas City,19:20,Kansas City Chiefs,KC,Pittsburgh Steelers,PIT,Arrowhead Stadium,Outdoor,Natural Grass,Cloudy with patches of fog,33.0,
+329,2016,Post,2,2017-01-15 00:00:00.000,Sunday,Arlington,15:40,Dallas Cowboys,DAL,Green Bay Packers,GB,AT&T Stadium,Indoor,Artificial,,,T:60; H:96%; W:ESE 6
+330,2016,Post,3,2017-01-22 00:00:00.000,Sunday,Atlanta,15:05,Atlanta Falcons,ATL,Green Bay Packers,GB,Georgia Dome,"Indoor, Fixed Roof",FieldTurf,,,Cloudy
+331,2016,Post,3,2017-01-22 00:00:00.000,Sunday,Foxborough,18:40,New England Patriots,NE,Pittsburgh Steelers,PIT,Gillette Stadium,Outdoor,Field Turf,Cloudy,41.0,
+332,2016,Post,4,2017-02-05 00:00:00.000,Sunday,Houston,17:30,Atlanta Falcons,ATL,New England Patriots,NE,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,76.0,Partly Cloudy
+333,2016,Post,5,2017-01-29 00:00:00.000,Sunday,Orlando,20:00,NFC,NFC,AFC,AFC,Camping World Stadium,Outdoors,AstroTurf GameDay Grass 3D,Cloudy,54.0,Cloudy
+334,2017,Pre,1,2017-08-03 00:00:00.000,Thursday,Canton,20:00,Dallas Cowboys,DAL,Arizona Cardinals,ARZ,Tom Benson Hall of Fame Stadium,Turf,Artificial,Sunny,82.0,Sunny
+335,2017,Pre,2,2017-08-12 00:00:00.000,Saturday,Glendale,19:00,Arizona Cardinals,ARZ,Oakland Raiders,OAK,University of Phoenix Stadium,Dome,Grass,,75.0,
+336,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Baltimore,19:30,Baltimore Ravens,BLT,Washington Redskins,WAS,M&T Bank Stadium,Outdoor,Grass,Partly Cloudy,82.0,Cloudy
+337,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Orchard Park,19:00,Buffalo Bills,BUF,Minnesota Vikings,MIN,New Era Field,Outdoors,A-Turf Titan,Partly cloudy,82.0,"Forecast: partly cloudy, slught chance of rain, low temp 73"
+338,2017,Pre,2,2017-08-09 00:00:00.000,Wednesday,Charlotte,19:30,Carolina Panthers,CAR,Houston Texans,HST,Bank of America Stadium,Outdoors,Natural Grass,Mostly Cloudy,81.0,
+339,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Chicago,19:00,Chicago Bears,CHI,Denver Broncos,DEN,Soldier Field,Outdoor,Grass,Scattered thunderstorms,81.0,
+340,2017,Pre,2,2017-08-11 00:00:00.000,Friday,Cincinnati,19:30,Cincinnati Bengals,CIN,Tampa Bay Buccaneers,TB,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,81.0,
+341,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Cleveland,20:00,Cleveland Browns,CLV,New Orleans Saints,NO,FirstEnergy Stadium,Outdoor,Grass,Sunny,77.0,Sunny
+342,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Green Bay,19:00,Green Bay Packers,GB,Philadelphia Eagles,PHI,Lambeau Field,Outdoor,DD GrassMaster,,69.0,Partly Cloudy
+343,2017,Pre,2,2017-08-13 00:00:00.000,Sunday,Indianapolis,13:30,Indianapolis Colts,IND,Detroit Lions,DET,Lucas Oil Stadium,Retr. Roof - Open,Artificial,Partly cloudy,78.0,"Partly cloudy, 78 degr. Wind N at 4 mph."
+344,2017,Pre,2,2017-08-11 00:00:00.000,Friday,Kansas City,20:00,Kansas City Chiefs,KC,San Francisco 49ers,SF,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,79.0,
+345,2017,Pre,2,2017-08-13 00:00:00.000,Sunday,Carson,17:00,Los Angeles Chargers,LAC,Seattle Seahawks,SEA,StubHub Center,,Grass,Sunny,76.0,
+346,2017,Pre,2,2017-08-12 00:00:00.000,Saturday,Los Angeles,18:00,Los Angeles Rams,LA,Dallas Cowboys,DAL,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,77.0,Sunny
+347,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Miami Gardens,19:00,Miami Dolphins,MIA,Atlanta Falcons,ATL,Hard Rock Stadium,Outdoor,Natural Grass,Cloudy,85.0,
+348,2017,Pre,2,2017-08-10 00:00:00.000,Thursday,Foxborough,19:30,New England Patriots,NE,Jacksonville Jaguars,JAX,Gillette Stadium,Outdoor,Field Turf,Sunny and warm,75.0,
+349,2017,Pre,2,2017-08-11 00:00:00.000,Friday,East Rutherford,19:00,New York Giants,NYG,Pittsburgh Steelers,PIT,MetLife Stadium,,UBU Speed Series-S5-M,Mostly Cloudy,75.0,
+350,2017,Pre,2,2017-08-12 00:00:00.000,Saturday,East Rutherford,19:30,New York Jets,NYJ,Tennessee Titans,TEN,MetLife Stadium,Outdoor,FieldTurf,,76.0,Cloudy
+351,2017,Pre,3,2017-08-17 00:00:00.000,Thursday,Jacksonville,20:00,Jacksonville Jaguars,JAX,Tampa Bay Buccaneers,TB,Everbank Field,Open,Grass,,85.0,Clear
+352,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Glendale,19:00,Arizona Cardinals,ARZ,Chicago Bears,CHI,University of Phoenix Stadium,Dome,Grass,,75.0,
+353,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Cincinnati,19:00,Cincinnati Bengals,CIN,Kansas City Chiefs,KC,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,86.0,
+354,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Arlington,18:00,Dallas Cowboys,DAL,Indianapolis Colts,IND,AT&T Stadium,Indoor,Artificial,,75.0,
+355,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Houston,19:00,Houston Texans,HST,New England Patriots,NE,NRG Stadium,Retractable Roof,Artificial,Sunny,93.0,Sunny
+356,2017,Pre,3,2017-08-20 00:00:00.000,Sunday,Carson,17:00,Los Angeles Chargers,LAC,New Orleans Saints,NO,StubHub Center,Outdoor,Grass,Sunny,74.0,
+357,2017,Pre,3,2017-08-17 00:00:00.000,Thursday,Miami Gardens,19:00,Miami Dolphins,MIA,Baltimore Ravens,BLT,Hard Rock Stadium,Outdoor,Natural Grass,Partly Cloudy,90.0,
+358,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Oakland,19:00,Oakland Raiders,OAK,Los Angeles Rams,LA,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Clear,63.0,Clear Skies
+359,2017,Pre,3,2017-08-17 00:00:00.000,Thursday,Philadelphia,19:00,Philadelphia Eagles,PHI,Buffalo Bills,BUF,Lincoln Financial Field,Outdoor,Grass,Partly Cloudy,85.0,Partly Cloudy
+360,2017,Pre,3,2017-08-20 00:00:00.000,Sunday,Pittsburgh,16:00,Pittsburgh Steelers,PIT,Atlanta Falcons,ATL,Heinz Field,Outdoor,Grass,Sunny,83.0,Sunny
+361,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Santa Clara,19:00,San Francisco 49ers,SF,Denver Broncos,DEN,Levis Stadium,Outdoor,Natural Grass,Clear,76.0,Clear
+362,2017,Pre,3,2017-08-18 00:00:00.000,Friday,Seattle,19:00,Seattle Seahawks,SEA,Minnesota Vikings,MIN,CenturyLink Field,outdoor,FieldTurf,Sunny,73.0,Clear
+363,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Nashville,14:00,Tennessee Titans,TEN,Carolina Panthers,CAR,Nissan Stadium,Outdoors,Grass,Partly Cloudy,97.0,Partly Cloudy
+364,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Landover,19:30,Washington Redskins,WAS,Green Bay Packers,GB,FedExField,Outdoors,Grass,Sunny,87.0,Sunny
+365,2017,Pre,3,2017-08-19 00:00:00.000,Saturday,Detroit,19:30,Detroit Lions,DET,New York Jets,NYJ,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"78 deg F, Winds NW at 10mph, Humidity 45%"
+366,2017,Pre,3,2017-08-21 00:00:00.000,Monday,Cleveland,20:00,Cleveland Browns,CLV,New York Giants,NYG,FirstEnergy Stadium,outdoor,grass,cloudy,79.0,Cloudy
+367,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Atlanta,19:00,Atlanta Falcons,ATL,Arizona Cardinals,ARZ,Mercedes-Benz Stadium,Indoor,FieldTurf 360,,70.0,Mostly Cloudy
+368,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Baltimore,19:00,Baltimore Ravens,BLT,Buffalo Bills,BUF,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,78.0,Cloudy
+369,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Arlington,19:00,Dallas Cowboys,DAL,Oakland Raiders,OAK,AT&T Stadium,Indoor,Artificial,,70.0,"T: 81, H: 65%, W: NE12"
+370,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Denver,19:00,Denver Broncos,DEN,Green Bay Packers,GB,Sports Authority Field at Mile High,Outdoor,Grass,Partly Cloudy,86.0,Partly Cloudy
+371,2017,Pre,4,2017-08-25 00:00:00.000,Friday,Detroit,19:00,Detroit Lions,DET,New England Patriots,NE,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"69 deg F, Winds W at 6 mph, Humidity 46%"
+372,2017,Pre,4,2017-08-24 00:00:00.000,Thursday,Jacksonville,19:30,Jacksonville Jaguars,JAX,Carolina Panthers,CAR,Everbank Field,Open,Grass,,84.0,Light rain and sporadic thunder
+373,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,New Orleans,19:00,New Orleans Saints,NO,Houston Texans,HST,Mercedes-Benz Superdome,Indoors (Domed),UBU Speed Series S5-M,Fair,90.0,Fair
+374,2017,Pre,4,2017-08-24 00:00:00.000,Thursday,Philadelphia,19:00,Philadelphia Eagles,PHI,Miami Dolphins,MIA,Lincoln Financial Field,Outdoor,Grass,Clear,82.0,Clear
+375,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Pittsburgh,19:30,Pittsburgh Steelers,PIT,Indianapolis Colts,IND,Heinz Field,Outdoors,Grass,Partly Cloudy,74.0,Partly Cloudy
+376,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Tampa Bay,19:30,Tampa Bay Buccaneers,TB,Cleveland Browns,CLV,Raymond James Stadium,Outdoor,Natural Grass,Rain,84.0,Rain
+377,2017,Pre,4,2017-08-25 00:00:00.000,Friday,Seattle,17:00,Seattle Seahawks,SEA,Kansas City Chiefs,KC,CenturyLink Field,Outdoor,FieldTurf,Sunny,74.0,Sunny
+378,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,East Rutherford,19:00,New York Giants,NYG,New York Jets,NYJ,MetLife Stadium,,UBU Speed Series-S5-M,Clear,74.0,
+379,2017,Pre,4,2017-08-26 00:00:00.000,Saturday,Los Angeles,17:00,Los Angeles Rams,LA,Los Angeles Chargers,LAC,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,80.0,Sunny
+380,2017,Pre,4,2017-08-27 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Chicago Bears,CHI,Nissan Stadium,Outdoors,Grass,Sunny,81.0,Sunny
+381,2017,Pre,4,2017-08-27 00:00:00.000,Sunday,Landover,16:30,Washington Redskins,WAS,Cincinnati Bengals,CIN,FedExField,Outdoor,Natural Grass,Partly Cloudy,76.0,Partly Cloudy
+382,2017,Pre,4,2017-08-27 00:00:00.000,Sunday,Minneapolis,19:00,Minnesota Vikings,MIN,San Francisco 49ers,SF,U.S. Bank Stadium,Indoor,Field Turf,Indoor,70.0,
+383,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,East Rutherford,19:00,New York Jets,NYJ,Philadelphia Eagles,PHI,MetLife Stadium,Outdoor,FieldTurf,,74.0,Clear
+384,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Atlanta,19:00,Atlanta Falcons,ATL,Jacksonville Jaguars,JAX,Mercedes-Benz Stadium,Dome,FieldTurf 360,Clear,70.0,
+385,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Orchard Park,19:00,Buffalo Bills,BUF,Detroit Lions,DET,New Era Field,Outdoors,A-Turf Titan,Mostly cloudy,65.0,"Forecast: continued cloudy, low temp 55"
+386,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Charlotte,19:30,Carolina Panthers,CAR,Pittsburgh Steelers,PIT,Bank of America Stadium,Outdoors,Natural Grass,Light Rain,71.0,
+387,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Chicago,19:00,Chicago Bears,CHI,Cleveland Browns,CLV,Soldier Field,Outdoor,Grass,"Partly cloudy, lows to upper 50s.",72.0,
+388,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Denver,19:00,Denver Broncos,DEN,Arizona Cardinals,ARZ,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,75.0,"Temps to Upper 60s, 20% Chance of Rain"
+389,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Green Bay,18:00,Green Bay Packers,GB,Los Angeles Rams,LA,Lambeau Field,Outdoor,DD GrassMaster,Clear Skies,64.0,
+390,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Houston,19:00,Houston Texans,HST,Dallas Cowboys,DAL,NRG Stadium,Indoor,Artificial,Clear,86.0,Clear
+391,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Indianapolis,19:00,Indianapolis Colts,IND,Cincinnati Bengals,CIN,Lucas Oil Stadium,Retr. Roof - Open,Artificial,Cloudy,78.0,"Cloudy, 78 degr. Wind NNE at 15 mph"
+392,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Kansas City,19:30,Kansas City Chiefs,KC,Tennessee Titans,TEN,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,79.0,
+393,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Minneapolis,19:00,Minnesota Vikings,MIN,Miami Dolphins,MIA,US Bank Stadium,Indoor,Field Turf,Indoor,,
+394,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Foxborough,19:30,New England Patriots,NE,New York Giants,NYG,Gillette Stadium,Outdoor,Field Turf,Partly Cloudy,68.0,
+395,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,New Orleans,19:00,New Orleans Saints,NO,Baltimore Ravens,BLT,Mercedes-Benz Superdome,Indoors (Domed),UBU Speed Series-S5-M,Sunny,86.0,Sunny
+396,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Oakland,19:00,Oakland Raiders,OAK,Seattle Seahawks,SEA,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,87.0,Clear Skies
+397,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Santa Clara,19:00,San Francisco 49ers,SF,Los Angeles Chargers,LAC,Levis Stadium,Outdoor,Natural grass,CLEAR,90.0,Clear
+398,2017,Pre,5,2017-08-31 00:00:00.000,Thursday,Tampa Bay,19:30,Tampa Bay Buccaneers,TB,Washington Redskins,WAS,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,91.0,Cloudy
+399,2017,Reg,1,2017-09-07 00:00:00.000,Thursday,Foxborough,20:30,New England Patriots,NE,Kansas City Chiefs,KC,Gillette Stadium,Outdoor,Field Turf,Clear and warm,63.0,
+400,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,New York Jets,NYJ,New Era Field,Outdoors,A-Turf Titan,Sun & clouds,65.0,"Forecast: high temp 65, no chance of rain"
+401,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Atlanta Falcons,ATL,Soldier Field,Outdoor,Grass,Sunny,64.0,
+402,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Baltimore Ravens,BLT,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Sunny,68.0,
+403,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Pittsburgh Steelers,PIT,FirstEnergy,Outdoor,Grass,Sunny,63.0,Sunny
+404,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Arizona Cardinals,ARZ,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"61 deg F, Winds NE at 10 mph, Humidity 77%"
+405,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Jacksonville Jaguars,JAX,NRG Stadium,Retractable Roof,Artificial,Sunny,80.0,Sunny
+406,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Tampa Bay Buccaneers,TB,Hard Rock Stadium,Ourdoor,Natural Grass,Sunny,81.0,
+407,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Oakland Raiders,OAK,Nissan Stadium,Outdoors,Grass,Sunny,72.0,Sunny
+408,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Philadelphia Eagles,PHI,FedExField,Outdoors,Grass,Sunny,67.0,Sunny
+409,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Indianapolis Colts,IND,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,90.0,Sunny
+410,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Green Bay,15:25,Green Bay Packers,GB,Seattle Seahawks,SEA,Lambeau Field,Outdoor,DD GrassMaster,Mostly Sunny,71.0,
+411,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,Carolina Panthers,CAR,Levis Stadium,Outdoor,Natural Grass,Clear,87.0,Clear
+412,2017,Reg,1,2017-09-10 00:00:00.000,Sunday,Arlington,19:30,Dallas Cowboys,DAL,New York Giants,NYG,AT&T Stadium,Indoor,Artificial,,,T: 82; H: 30%; W: NE9
+413,2017,Reg,1,2017-09-11 00:00:00.000,Monday,Minneapolis,18:10,Minnesota Vikings,MIN,New Orleans Saints,NO,U.S. Bank Stadium,Indoors,Field Turf,Indoor,70.0,
+414,2017,Reg,1,2017-09-11 00:00:00.000,Monday,Denver,20:20,Denver Broncos,DEN,Los Angeles Chargers,LAC,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,73.0,Temp to Mid 60s
+415,2017,Reg,2,2017-09-14 00:00:00.000,Thursday,Cincinnati,20:25,Cincinnati Bengals,CIN,Houston Texans,HST,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Mostly Coudy,69.0,
+416,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Cleveland Browns,CLV,M&T Bank Stadium,Outdoor,Natural Grass,Mostly Cloudy,80.0,Cloudy
+417,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Buffalo Bills,BUF,Bank of America Stadium,Outdoors,Natural Grass,Sunny,83.0,
+418,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Arizona Cardinals,ARZ,Lucas Oil Stadium,Retr. Roof-Closed,Artificial,Partly sunny,78.0,"Partly sunny, 78 degr. Wind SSW at 6 mph."
+419,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Tennessee Titans,TEN,Everbank Field,Open,Grass,Partly Cloudy,84.0,
+420,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Philadelphia Eagles,PHI,Arrowhead Stadium,Outdoor,Natural Grass,Cloudy,68.0,
+421,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,New England Patriots,NE,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Mostly Cloudy,85.0,Mostly Cloudy
+422,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,Minnesota Vikings,MIN,Heinz Field,Outdoors,Grass,Sunny,78.0,Sunny
+423,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Chicago Bears,CHI,Raymond James Stadium,Outdoor,Natural Grass,Clear,88.0,Clear
+424,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Carson,13:05,Los Angeles Chargers,LAC,Miami Dolphins,MIA,StubHub Center,,Grass,Cloudy,71.0,
+425,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Oakland,13:05,Oakland Raiders,OAK,New York Jets,NYJ,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,70.0,Sunny
+426,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Dallas Cowboys,DAL,Sports Authority Field at Mile High,Outdoor,Grass,Partly Cloudy,72.0,"Chance of Thunderstorms, Falling to Mid 60s"
+427,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,Washington Redskins,WAS,Los Angeles Memorial Coliseum,Outdoor,Grass,Cloudy,76.0,Cloudy
+428,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Seattle,13:25,Seattle Seahawks,SEA,San Francisco 49ers,SF,CenturyLink Field,Outdoor,FieldTurf,Mostly Cloudy,65.0,Mostly Cloudy
+429,2017,Reg,2,2017-09-17 00:00:00.000,Sunday,Atlanta,20:30,Atlanta Falcons,ATL,Green Bay Packers,GB,Mercedes-Benz Dome,"Indoor, Open Roof",FieldTurf 360,Clear,78.0,Same
+430,2017,Reg,2,2017-09-18 00:00:00.000,Monday,East Rutherford,20:30,New York Giants,NYG,Detroit Lions,DET,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,72.0,
+431,2017,Reg,3,2017-09-21 00:00:00.000,Thursday,Santa Clara,17:25,San Francisco 49ers,SF,Los Angeles Rams,LA,Levis Stadium,Outdoor,Natural grass,Mostly Sunny,68.0,Mostly Sunny
+432,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Wembley,14:30,Jacksonville Jaguars,JAX,Baltimore Ravens,BLT,Wembley Stadium,Outdoors,Grass,,70.0,
+433,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Denver Broncos,DEN,New Era Field,Outdoors,A-Turf Titan,Sunny,83.0,"Forecast: continued sunny, high temp 85"
+434,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,New Orleans Saints,NO,Bank of America Stadium,Outdoors,Natural Grass,Sunny,82.0,
+435,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Pittsburgh Steelers,PIT,Soldier Field,Outdoor,Grass,"Sunny, highs to upper 80s",89.0,
+436,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Atlanta Falcons,ATL,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"84 deg F, Winds SE at 5mph, Humidity 50%"
+437,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Cleveland Browns,CLV,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Sunny,83.0,Sunny
+438,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Tampa Bay Buccaneers,TB,U.S. Bank Stadium,Indoor,Field Turf,Indoor,,
+439,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Houston Texans,HST,Gillette Stadium,Outdoor,Field Turf,Sunny,84.0,
+440,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Miami Dolphins,MIA,MetLife Stadium,Outdoor,FieldTurf,Sunny,88.0,Sunny
+441,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,New York Giants,NYG,Lincoln Financial Field,Outdoor,Natural Grass,Sunny,89.0,Sunny
+442,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Nashville,15:05,Tennessee Titans,TEN,Seattle Seahawks,SEA,Nissan Stadium,Outddors,Grass,Sunny,88.0,Sunny
+443,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Green Bay,15:25,Green Bay Packers,GB,Cincinnati Bengals,CIN,Lambeau Field,Outdoor,DD GrassMaster,Sunny,89.0,
+444,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Carson,13:25,Los Angeles Chargers,LAC,Kansas City Chiefs,KC,StubHub Center,,Grass,Sunny,84.0,
+445,2017,Reg,3,2017-09-24 00:00:00.000,Sunday,Landover,20:30,Washington Redskins,WAS,Oakland Raiders,OAK,FedExField,Outdoor,Grass,Clear,76.0,Clear
+446,2017,Reg,3,2017-09-25 00:00:00.000,Monday,Glendale,17:30,Arizona Cardinals,ARZ,Dallas Cowboys,DAL,University of Phoenix Stadium,Dome,Grass,Indoor,,
+447,2017,Reg,4,2017-09-28 00:00:00.000,Thursday,Green Bay,19:25,Green Bay Packers,GB,Chicago Bears,CHI,Lambeau Field,Outdoor,DD GrassMaster,Cloudy,65.0,
+448,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Wembley,14:30,Miami Dolphins,MIA,New Orleans Saints,NO,Wembley Stadium,Outdoor,Grass,,63.0,
+449,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Buffalo Bills,BUF,Mercedes-Benz Stadium,"Domed, closed",FieldTurf 360,,,Sunny
+450,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Pittsburgh Steelers,PIT,M&T Stadium,Outdoor,Natural Grass,Sunny,64.0,Sunny
+451,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Cincinnati Bengals,CIN,First Energy Stadium,Outdoor,Grass,Sunny,63.0,Sunny
+452,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Arlington,12:00,Dallas Cowboys,DAL,Los Angeles Rams,LA,AT&T Stadium,Indoor,Artificial,,,T: 75; H: 44%; W: SE6
+453,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Tennessee Titans,TEN,NRG,Retractable Roof,Artificial,Sunny,87.0,Sunny
+454,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Detroit Lions,DET,U.S. Bank Stadium,Indoor,Field Turf,Indoor,,
+455,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Carolina Panthers,CAR,Gillette Stadium,Outdoor,Field Turf,Sunny,61.0,Sunny
+456,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Jacksonville Jaguars,JAX,MetLife,Outdoor,FieldTurf,Sunny,64.0,Sunny
+457,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Glendale,13:05,Arizona Cardinals,ARZ,San Francisco 49ers,SF,University of Phoenix Stadium,Dome,Grass,Indoors,,
+458,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Carson,13:05,Los Angeles Chargers,LAC,Philadelphia Eagles,PHI,StubHub Center,,Grass,Sunny,72.0,
+459,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Tampa Bay,16:05,Tampa Bay Buccaneers,TB,New York Giants,NYG,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,91.0,Cloudy
+460,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Oakland Raiders,OAK,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,72.0,"Falling to near 60, chance of thunderstorm"
+461,2017,Reg,4,2017-10-01 00:00:00.000,Sunday,Seattle,17:30,Seattle Seahawks,SEA,Indianapolis Colts,IND,CenturyLink,Outdoor,FieldTurf,Clear,61.0,
+462,2017,Reg,4,2017-10-02 00:00:00.000,Monday,Kansas City,19:30,Kansas City Chiefs,KC,Washington Redskins,WAS,Arrowhead Stadium,Outdoor,Natural Grass,Clear,82.0,
+463,2017,Reg,5,2017-10-05 00:00:00.000,Thursday,Tampa Bay,20:25,Tampa Bay Buccaneers,TB,New England Patriots,NE,Raymond James Stadium,Outdoor,Natural Grass,Clear,76.0,Clear
+464,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Buffalo Bills,BUF,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Light Rain,63.0,
+465,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,New York Jets,NYJ,FirstEnergy Stadium,Outdoor,grass,Cloudy,67.0,Cloudy
+466,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Carolina Panthers,CAR,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"68 deg F, Winds SW at 5mph, Humidity 64%"
+467,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,San Francisco 49ers,SF,Lucas Oil Stadium,Retr. Roof-Closed,Artificial,Cloudy,68.0,"Cloudy, 68 degr. Wind ESE at 12 mph"
+468,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Tennessee Titans,TEN,Hard Rock Stadium,Outdoor,Natural Grass,Partly Cloudy,89.0,
+469,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Los Angeles Chargers,LAC,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,76.0,
+470,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Arizona Cardinals,ARZ,Lincoln Financial Field,Outdoor,Grass,Showers,77.0,Showers
+471,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,Jacksonville Jaguars,JAX,Heinz Field,Outdoors,Grass,Cloudy,73.0,Cloudy
+472,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Seattle Seahawks,SEA,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,78.0,Sunny
+473,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Oakland,13:05,Oakland Raiders,OAK,Baltimore Ravens,BLT,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,72.0,Sunny
+474,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Arlington,15:25,Dallas Cowboys,DAL,Green Bay Packers,GB,AT&T Stadium,Indoor,Artificial,,,T: 88; H: 17%; W: SOUTH 6 mph
+475,2017,Reg,5,2017-10-08 00:00:00.000,Sunday,Houston,19:30,Houston Texans,HST,Kansas City Chiefs,KC,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,89.0,Partly Cloudy
+476,2017,Reg,5,2017-10-09 00:00:00.000,Monday,Chicago,19:30,Chicago Bears,CHI,Minnesota Vikings,MIN,Soldier Field,Outdoor,Grass,Partly cloudy,70.0,
+477,2017,Reg,6,2017-10-12 00:00:00.000,Thursday,Charlotte,20:25,Carolina Panthers,CAR,Philadelphia Eagles,PHI,Bank of America Stadium,Outdoors,Natural Grass,Cloudy,72.0,
+478,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Miami Dolphins,MIA,Mercedes-Benz Stadium,"Indoor, Roof Closed",FieldTurf 360,Indoors,,"Mostly Cloudy, 78F"
+479,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Chicago Bears,CHI,M&T Stadium,Outdoor,Natural,Partly Sunny,69.0,Partly Cloudy
+480,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Cleveland Browns,CLV,NRG Stadium,Retractable Roof,Artificial,Partly Cloudy,85.0,Partly Cloudy
+481,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Green Bay Packers,GB,U.S. Bank Stadium,Indoor,Field Turf,Indoor,,
+482,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Detroit Lions,DET,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Cloudy,84.0,Cloudy
+483,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,New England Patriots,NE,MetLife,Outdoor,FieldTurf,Cloudy,73.0,Cloudy
+484,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,San Francisco 49ers,SF,FedExField,Outdoor,Grass,Cloudy,68.0,Cloudy
+485,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Glendale,13:05,Arizona Cardinals,ARZ,Tampa Bay Buccaneers,TB,University of Phoenix Stadium,Dome,Grass,,,
+486,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Jacksonville,16:05,Jacksonville Jaguars,JAX,Los Angeles Rams,LA,EverBank Field,Open,Grass,30% Chance of Rain,88.0,
+487,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Kansas City,15:25,Kansas City Chiefs,KC,Pittsburgh Steelers,PIT,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,60.0,
+488,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,Los Angeles Chargers,LAC,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,76.0,Sunny
+489,2017,Reg,6,2017-10-15 00:00:00.000,Sunday,Denver,18:30,Denver Broncos,DEN,New York Giants,NYG,Sports Authority Field at Mile High,Outdoor,Grass,Clear,61.0,Dropping to Mid 40s by Game End
+490,2017,Reg,6,2017-10-16 00:00:00.000,Monday,Nashville,19:30,Tennessee Titans,TEN,Indianapolis Colts,IND,Nissan Stadium,Outdoors,Grass,Clear,57.0,Clear
+491,2017,Reg,7,2017-10-19 00:00:00.000,Thursday,Oakland,17:25,Oakland Raiders,OAK,Kansas City Chiefs,KC,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Cloudy,62.0,Mostly Cloudy
+492,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Tampa Bay Buccaneers,TB,New Era Field,Outdoors,A-Turf Titan,Sunny,74.0,"Forecast: high temp 77, no chance of rain"
+493,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Carolina Panthers,CAR,Soldier Field,Outdoor,Grass,"Cloudy with periods of rain, thunder possible. Winds shifting to WNW, 10-20 mph.",70.0,
+494,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Tennessee Titans,TEN,FirstEnergy Stadium,Outdoor,Grass,Sunny,74.0,Sunny
+495,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Green Bay,12:00,Green Bay Packers,GB,New Orleans Saints,NO,Lambeau Field,Outdoor,DD GrassMaster,Rain,52.0,
+496,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Jacksonville Jaguars,JAX,Lucas Oil Stadium,Retr. Roof Closed,Artificial,Cloudy,72.0,"Cloudy, 72 degr. Wind S at 17 mph"
+497,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Twickenham,18:00,Los Angeles Rams,LA,Arizona Cardinals,ARZ,Twickenham,Outdoor,Grass,Rain,54.0,
+498,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,New York Jets,NYJ,Hard Rock Stadium,Outdoor,Natural Grass,Partly Cloudy,86.0,
+499,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Baltimore Ravens,BLT,U.S. Bank Stadium,Indoor,Field Turf,Indoor,,
+500,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,Cincinnati Bengals,CIN,Heinz Field,Outdoors,Grass,Sunny,79.0,Sunny
+501,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,Dallas Cowboys,DAL,Levis Stadium,Outdoor,Natural Grass,Sunny,68.0,Sunny
+502,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Carson,13:25,Los Angeles Chargers,LAC,Denver Broncos,DEN,StubHub Center,,Grass,Sunny,90.0,
+503,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,East Rutherford,16:25,New York Giants,NYG,Seattle Seahawks,SEA,MetLife Stadium,,UBU Speed Series-S5-M,Partly Cloudy,75.0,
+504,2017,Reg,7,2017-10-22 00:00:00.000,Sunday,Foxborough,20:30,New England Patriots,NE,Atlanta Falcons,ATL,Gillette Stadium,Outdoor,Field Turf,"Cloudy, fog started developing in 2nd quarter",56.0,
+505,2017,Reg,7,2017-10-23 00:00:00.000,Monday,Philadelphia,20:30,Philadelphia Eagles,PHI,Washington Redskins,WAS,Lincoln Financial Field,Outdoor,Grass,Cloudy,70.0,Cloudy
+506,2017,Reg,8,2017-10-26 00:00:00.000,Thursday,Baltimore,20:25,Baltimore Ravens,BLT,Miami Dolphins,MIA,M&T Bank Stadium,Outdoor,Natural Grass,Partly Cloudy,56.0,Partly Cloudy
+507,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Twickenham,13:30,Cleveland Browns,CLV,Minnesota Vikings,MIN,Twickenham Stadium,Outdoors,Grass,Partly Cloudy,56.0,
+508,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Oakland Raiders,OAK,New Era Field,Outdoors,A-Turf Titan,Rain,42.0,"Forecast: cloudy with light rain, high temp 44"
+509,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Indianapolis Colts,IND,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Cloudy,39.0,
+510,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Los Angeles Chargers,LAC,Gillette Stadium,Outdoor,Field Turf,Rain,62.0,
+511,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Chicago Bears,CHI,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Sunny,54.0,Sunny
+512,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Atlanta Falcons,ATL,MetLife,Outdoor,FieldTurf,Rain,63.0,Rain
+513,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,San Francisco 49ers,SF,Lincoln Financial Field,Outdoor,Grass,Rain,67.0,Rain
+514,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Carolina Panthers,CAR,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,63.0,Cloudy
+515,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Seattle,13:05,Seattle Seahawks,SEA,Houston Texans,HST,CenturyLink Field,Outdoor,FieldTurf,Cloudy,50.0,Cloudy
+516,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Landover,16:25,Washington Redskins,WAS,Dallas Cowboys,DAL,FedExField,Outdoor,Grass,Rain,60.0,Rainy
+517,2017,Reg,8,2017-10-29 00:00:00.000,Sunday,Detroit,20:30,Detroit Lions,DET,Pittsburgh Steelers,PIT,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"41 deg F, Winds NW at 6 mph, Humidity 68%"
+518,2017,Reg,8,2017-10-30 00:00:00.000,Monday,Kansas City,19:30,Kansas City Chiefs,KC,Denver Broncos,DEN,Arrowhead Stadium,Outdoor,Natural Grass,Clear,44.0,
+519,2017,Reg,9,2017-11-02 00:00:00.000,Thursday,East Rutherford,20:25,New York Jets,NYJ,Buffalo Bills,BUF,MetLife,Outdoor,FieldTurf,Clear,68.0,Clear
+520,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Atlanta Falcons,ATL,Bank of America Stadium,Outdoors,Natural Grass,Coudy,61.0,
+521,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Indianapolis Colts,IND,NRG Stadium,Retractable Roof,Artifical,Mostly Cloudy,84.0,Mostly Cloudy
+522,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Cincinnati Bengals,CIN,EverBank Field,Open,Grass,,78.0,10% Chance of Rain
+523,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Tampa Bay Buccaneers,TB,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Partly Cloudy,79.0,Partly Cloudy
+524,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Los Angeles Rams,LA,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,56.0,
+525,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Denver Broncos,DEN,Lincoln Financial Field,Outdoor,Grass,Cloudy,61.0,Cloudy
+526,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Baltimore Ravens,BLT,Nissan Stadium,Outdoors,Grass,Cloudy,75.0,Cloudy
+527,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,Arizona Cardinals,ARZ,Levis Stadium,Outdoor,Natural grass,Sunny,61.0,Sunny
+528,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Seattle,13:05,Seattle Seahawks,SEA,Washington Redskins,WAS,CenturyLink Field,Outdoor,FieldTurf,Rain,36.0,Rain
+529,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Arlington,15:25,Dallas Cowboys,DAL,Kansas City Chiefs,KC,AT&T Stadium,Indoor,Artificial,,,T: 90; H: 43%; W: SSW 9mph
+530,2017,Reg,9,2017-11-05 00:00:00.000,Sunday,Miami Gardens,20:30,Miami Dolphins,MIA,Oakland Raiders,OAK,Hard Rock Stadium,Outdoor,Natural Grass,,77.0,
+531,2017,Reg,9,2017-11-06 00:00:00.000,Monday,Green Bay,19:30,Green Bay Packers,GB,Detroit Lions,DET,Lambeau Field,Outdoor,DD GrassMaster,Cloudy,35.0,
+532,2017,Reg,10,2017-11-09 00:00:00.000,Thursday,Glendale,18:25,Arizona Cardinals,ARZ,Seattle Seahawks,SEA,University of Phoenix Stadium,Outdoor Retr Roof-Open,Grass,,79.0,
+533,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,New Orleans Saints,NO,New Era Field,Outdoors,A-Turf Titan,Cloudy,42.0,"Forecast: continued mostly cloudy, stable temps"
+534,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Green Bay Packers,GB,Soldier Field,Outdoor,Grass,"Rain likely, temps in low 40s.",39.0,
+535,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Cleveland Browns,CLV,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"37 deg F, Winds SSE at 1 mph, Humidity 88%, Rain"
+536,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Pittsburgh Steelers,PIT,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Cloudy,42.0,
+537,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Los Angeles Chargers,LAC,EverBank Field,Open,Grass,,76.0,Partly Cloudy
+538,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,New York Jets,NYJ,Raymond James Stadium,Outdoor,Natural Grass,Cloudy,79.0,Cloudy
+539,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Cincinnati Bengals,CIN,Nissan Stadium,Outdoors,Grass,Cloudy,53.0,Cloudy
+540,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Minnesota Vikings,MIN,FedExField,Outdoor,Grass,Cloudy,44.0,Cloudy
+541,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Los Angeles,13:05,Los Angeles Rams,LA,Houston Texans,HST,Los Angeles Memorial Coliseum,Outdoor,Grass,Cloudy,68.0,Cloudy
+542,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Atlanta,16:25,Atlanta Falcons,ATL,Dallas Cowboys,DAL,Mercedes-Benz Stadium,Closed Dome,FieldTurf360,,,"47F, Light Rain"
+543,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,New York Giants,NYG,Levis Stadium,Outdoor,Natural Grass,Sunny,68.0,Sunny
+544,2017,Reg,10,2017-11-12 00:00:00.000,Sunday,Denver,18:30,Denver Broncos,DEN,New England Patriots,NE,Sports Authority Field at Mile High,Oudoor,Grass,Partly Cloudy,48.0,Falling to High 30s
+545,2017,Reg,10,2017-11-13 00:00:00.000,Monday,Charlotte,20:30,Carolina Panthers,CAR,Miami Dolphins,MIA,Bank of America Stadium,Outdoors,Natural Grass,Clear,49.0,
+546,2017,Reg,11,2017-11-16 00:00:00.000,Thursday,Pittsburgh,20:25,Pittsburgh Steelers,PIT,Tennessee Titans,TEN,Heinz Field,Outdoors,Grass,Cloudy,40.0,Cloudy
+547,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Detroit Lions,DET,Soldier Field,Outdoor,Grass,Partly Cloudy,33.0,
+548,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Jacksonville Jaguars,JAX,FirstEnergy Stadium,Outdoor,Grass,Cold,38.0,Cloudy
+549,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Green Bay,12:00,Green Bay Packers,GB,Baltimore Ravens,BLT,Lambeau Field,Outdoor,DD GrassMaster,Sunny,28.0,
+550,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,Arizona Cardinals,ARZ,NRG Stadium,Retractable Roof,Artifical,Sunny,60.0,Sunny
+551,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Los Angeles Rams,LA,U.S. Bank Stadium,Indoor,Field Turf,N/A (Indoors),,
+552,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Washington Redskins,WAS,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Sunny,57.0,Sunny
+553,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Kansas City Chiefs,KC,MetLife Stadium,,UBU Speed Series-S5-M,Mostly Cloudy,50.0,
+554,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Carson,13:05,Los Angeles Chargers,LAC,Buffalo Bills,BUF,StubHub Center,,Grass,Partly Cloudy,76.0,
+555,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Cincinnati Bengals,CIN,Sports Authority Field at Mile High,Outdoor,Grass,Mostly Cloudy,60.0,Falling to uppers 40s
+556,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Mexico City,15:25,Oakland Raiders,OAK,New England Patriots,NE,Estadio Azteca,Outdoor,Natural Grass,Sunny,66.0,Sunny
+557,2017,Reg,11,2017-11-19 00:00:00.000,Sunday,Arlington,19:30,Dallas Cowboys,DAL,Philadelphia Eagles,PHI,AT&T Stadium,Outdoors,Artificial,Clear skies,54.0,54
+558,2017,Reg,11,2017-11-20 00:00:00.000,Monday,Seattle,17:30,Seattle Seahawks,SEA,Atlanta Falcons,ATL,CenturyLink Field,Outdoor,FieldTurf,Cloudy,45.0,Cloudy
+559,2017,Reg,12,2017-11-23 00:00:00.000,Thursday,Detroit,12:30,Detroit Lions,DET,Minnesota Vikings,MIN,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"34deg F, Winds SW at 11mph, Humidity 63%"
+560,2017,Reg,12,2017-11-23 00:00:00.000,Thursday,Arlington,15:30,Dallas Cowboys,DAL,Los Angeles Chargers,LAC,AT&T Stadium,Indoor,Artificial,,,"T: 66; H: 24%; W: 7 mph, ESE"
+561,2017,Reg,12,2017-11-23 00:00:00.000,Thursday,Landover,20:30,Washington Redskins,WAS,New York Giants,NYG,FedExField,Outdoor,Grass,Clear,33.0,Clear
+562,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Tampa Bay Buccaneers,TB,Mercedes-Benz Stadium,"Dome, closed",FieldTurf 360,,,"Sunny, 61"
+563,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Cleveland Browns,CLV,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,46.0,
+564,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Tennessee Titans,TEN,Lucas Oil Stadium,Retr. Roof-Open,Artificial,Sunny,47.0,"Sunny, 47 degr. Wind WSW at 10 mph"
+565,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Buffalo Bills,BUF,Arrowhead Stadium,Outdoor,Natural Grass,Partly Cloudy,62.0,
+566,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Miami Dolphins,MIA,Gillette Stadium,Outdoor,Field Turf,Partly Cloudy,47.0,
+567,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Carolina Panthers,CAR,MetLife,Outdoor,FieldTurf,Sunny,47.0,Clear
+568,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Chicago Bears,CHI,Lincoln Financial Field,Outdoor,Grass,Sunny,49.0,Sunny
+569,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,New Orleans Saints,NO,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,72.0,Sunny
+570,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,Seattle Seahawks,SEA,Levis Stadium,Outdoor,Natural Grass,cloudy,66.0,Cloudy
+571,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Glendale,14:25,Arizona Cardinals,ARZ,Jacksonville Jaguars,JAX,University of Phoenix Stadium,Dome,Grass,,,
+572,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,Denver Broncos,DEN,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Cloudy,61.0,Cloudy
+573,2017,Reg,12,2017-11-26 00:00:00.000,Sunday,Pittsburgh,20:30,Pittsburgh Steelers,PIT,Green Bay Packers,GB,Heinz Field,Outdoors,Grass,Clear,38.0,Clear
+574,2017,Reg,12,2017-11-27 00:00:00.000,Monday,Baltimore,20:30,Baltimore Ravens,BLT,Houston Texans,HST,M & T Bank Stadium,Outdoor,Natural Grass,Fair,50.0,Fair
+575,2017,Reg,13,2017-11-30 00:00:00.000,Thursday,Arlington,19:25,Dallas Cowboys,DAL,Washington Redskins,WAS,AT&T Stadium,Outdoor,Artificial,,58.0,
+576,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Atlanta,13:00,Atlanta Falcons,ATL,Minnesota Vikings,MIN,Mercedes-Benz Stadium,"Domed, closed",FieldTurf360,,,
+577,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Baltimore,13:00,Baltimore Ravens,BLT,Detroit Lions,DET,M&T Bank Stadium,Outdoor,Natural Grass,Partly Sunny,53.0,Partly Sunny
+578,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,New England Patriots,NE,New Era Field,Outdoors,A-Turf Titan,Mostly cloudy,48.0,"Forecast: continued cloudy, temps in mid-40s, no chance of rain"
+579,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,San Francisco 49ers,SF,Soldier Field,Outdoor,Grass,Sunny,54.0,
+580,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Green Bay,12:00,Green Bay Packers,GB,Tampa Bay Buccaneers,TB,Lambeau Field,Outdoor,DD GrassMaster,Cloudy,42.0,
+581,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Indianapolis Colts,IND,EverBank Field,Open,Grass,,70.0,Partly Cloudy
+582,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Miami Gardens,13:00,Miami Dolphins,MIA,Denver Broncos,DEN,Hard Rock Stadium,Outdoor,Natural Grass,Cloudy,80.0,
+583,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,New Orleans,15:25,New Orleans Saints,NO,Carolina Panthers,CAR,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Sunny,69.0,Sunny
+584,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Kansas City Chiefs,KC,MetLife,Outdoor,FieldTurf,Cloudy,48.0,Cloudy
+585,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Houston Texans,HST,Nissan Stadium,Outdoors,Grass,Sunny,60.0,Sunny
+586,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Carson,13:05,Los Angeles Chargers,LAC,Cleveland Browns,CLV,StubHub Center,,Grass,Sunny,68.0,
+587,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Glendale,14:25,Arizona Cardinals,ARZ,Los Angeles Rams,LA,University of Phoenix Stadium,Dome,Grass,,,
+588,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Oakland,13:25,Oakland Raiders,OAK,New York Giants,NYG,Oakland-Alameda County Coliseum,Outdoor,Natural Grass,Sunny,58.0,Sunny
+589,2017,Reg,13,2017-12-03 00:00:00.000,Sunday,Seattle,17:30,Seattle Seahawks,SEA,Philadelphia Eagles,PHI,CenturyLink Field,Outdoor,FieldTurf,Cloudy,44.0,Cloudy
+590,2017,Reg,13,2017-12-04 00:00:00.000,Monday,Cincinnati,20:30,Cincinnati Bengals,CIN,Pittsburgh Steelers,PIT,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,"Cloudy, chance of rain",61.0,
+591,2017,Reg,14,2017-12-07 00:00:00.000,Thursday,Atlanta,20:25,Atlanta Falcons,ATL,New Orleans Saints,NO,Mercedes-Benz Stadium,Closed Dome,FieldTurf 360,Cloudy,,"Partly cloudy, 44"
+592,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Indianapolis Colts,IND,New Era Field,Outdoors,A-Turf Titan,Heavy lake effect snow,32.0,"Forecast: continued snow, temps in low 30s"
+593,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Minnesota Vikings,MIN,Bank of America Stadium,Outdoors,Natural Grass,Sunny,41.0,
+594,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Chicago Bears,CHI,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Partly Cloudy,31.0,
+595,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Green Bay Packers,GB,FirstEnergy Stadium,Outdoor,Grass,Cloudy,29.0,Chance of Flurries
+596,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Houston,12:00,Houston Texans,HST,San Francisco 49ers,SF,NRG Stadium,Retractable Roof,Artifical,Sunny,,Sunny
+597,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Jacksonville,16:25,Jacksonville Jaguars,JAX,Seattle Seahawks,SEA,Everbank Field,Open,Grass,,54.0,Sunny
+598,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Oakland Raiders,OAK,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,46.0,
+599,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Tampa Bay,13:00,Tampa Bay Buccaneers,TB,Detroit Lions,DET,Raymond James Stadium,Outdoor,Natural Grass,Clear,55.0,Clear
+600,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Glendale,14:05,Arizona Cardinals,ARZ,Tennessee Titans,TEN,University of Phoenix Stadium,Dome,Grass,,79.0,Partly Cloudy
+601,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Denver,14:05,Denver Broncos,DEN,New York Jets,NYJ,Sports Authority Field at Mile High,Outdoor,Grass,Sunny,60.0,Falling to low 50s
+602,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Carson,13:05,Los Angeles Chargers,LAC,Washington Redskins,WAS,StubHub Center,,Grass,Partly Cloudy,81.0,
+603,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,Philadelphia Eagles,PHI,Los Angeles Memorial Coliseum,Outdoor,Grass,Cloudy,83.0,Cloudy
+604,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Dallas Cowboys,DAL,MetLife Stadium,,UBU Speed Series-S5-M,Fair,39.0,
+605,2017,Reg,14,2017-12-10 00:00:00.000,Sunday,Pittsburgh,20:30,Pittsburgh Steelers,PIT,Baltimore Ravens,BLT,Heinz Field,Heinz Field,Grass,Cloudy,33.0,Cloudy
+606,2017,Reg,14,2017-12-11 00:00:00.000,Monday,Miami Gardens,20:30,Miami Dolphins,MIA,New England Patriots,NE,Hard Rock Stadium,Outdoor,Natural Grass,Clear,55.0,
+607,2017,Reg,15,2017-12-14 00:00:00.000,Thursday,Indianapolis,20:25,Indianapolis Colts,IND,Denver Broncos,DEN,Lucas Oil Stadium,Retr. Roof - Closed,Artificial,Cloudy,25.0,"Cloudy, 25 degr. Wind SE at 5 mph"
+608,2017,Reg,15,2017-12-16 00:00:00.000,Saturday,Detroit,16:30,Detroit Lions,DET,Chicago Bears,CHI,Ford Field,Indoors,Field Turf,Controlled Climate,68.0,"28 deg F, Winds ENE 12 mph, Humidity 80%"
+609,2017,Reg,15,2017-12-16 00:00:00.000,Saturday,Kansas City,19:25,Kansas City Chiefs,KC,Los Angeles Chargers,LAC,Arrowhead Stadium,Outdoor,Natural Grass,Cloudy,53.0,
+610,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Orchard Park,13:00,Buffalo Bills,BUF,Miami Dolphins,MIA,New Era Field,Outdoors,A-Turf Titan,Mostly cloudy,22.0,"Forecast: continued cloudy, no snow, temps in low 20s"
+611,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Green Bay Packers,GB,Bank of America Stadium,Outdoors,Natural Grass,Party Cloudy,51.0,
+612,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Cleveland,13:00,Cleveland Browns,CLV,Baltimore Ravens,BLT,First Energy Stadium,Outdoor,Grass,Cloudy,36.0,Cloudy
+613,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Jacksonville,13:00,Jacksonville Jaguars,JAX,Houston Texans,HST,Everbank Field,Open,Grass,,72.0,
+614,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Cincinnati Bengals,CIN,U.S. Bank Stadium,Indoor,Field Turf,N/A (Indoors),,
+615,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,New York Jets,NYJ,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Rain,67.0,Rain
+616,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Philadelphia Eagles,PHI,MetLife Stadium,,UBU Speed Series-S5-M,Cloudy,35.0,
+617,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Arizona Cardinals,ARZ,FedExField,Outdoor,Grass,Cloudy,50.0,Cloudy
+618,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Seattle,13:05,Seattle Seahawks,SEA,Los Angeles Rams,LA,CenturyLink Field,Outdoor,FieldTurf,Cloudy,47.0,Cloudy
+619,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Pittsburgh,16:25,Pittsburgh Steelers,PIT,New England Patriots,NE,Heinz Field,Outdoors,Grass,Mostly Cloudy,42.0,Mostly Cloudy
+620,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Santa Clara,13:25,San Francisco 49ers,SF,Tennessee Titans,TEN,Levis Stadium,Outdoor,Natural grass,Sunny,65.0,Sunny
+621,2017,Reg,15,2017-12-17 00:00:00.000,Sunday,Oakland,17:30,Oakland Raiders,OAK,Dallas Cowboys,DAL,Oakland Alameda-County Coliseum,Outdor,Naturall Grass,Clear,57.0,Clear
+622,2017,Reg,15,2017-12-18 00:00:00.000,Monday,Tampa Bay,20:30,Tampa Bay Buccaneers,TB,Atlanta Falcons,ATL,Raymond James Stadium,Outdoor,Natural Grass,Clear,71.0,Clear
+623,2017,Reg,16,2017-12-23 00:00:00.000,Saturday,Baltimore,16:30,Baltimore Ravens,BLT,Indianapolis Colts,IND,M&T Stadium,Outdoor,Natural Grass,Cloudy,63.0,"Cloudy, Light Rain"
+624,2017,Reg,16,2017-12-23 00:00:00.000,Saturday,Green Bay,19:30,Green Bay Packers,GB,Minnesota Vikings,MIN,Lambeau Field,Outdoor,DD GrassMaster,Clear,10.0,
+625,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Charlotte,13:00,Carolina Panthers,CAR,Tampa Bay Buccaneers,TB,Bank of America Stadium,Outdoors,Natural Grass,Cloudy,55.0,
+626,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Chicago,12:00,Chicago Bears,CHI,Cleveland Browns,CLV,Soldier Field,Outdoor,Grass,"Cloudy, light snow accumulating 1-3""",24.0,
+627,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Cincinnati,13:00,Cincinnati Bengals,CIN,Detroit Lions,DET,Paul Brown Stadium,Outdoor,UBU Sports Speed S5-M,Mostly Cloudy,35.0,
+628,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Kansas City,12:00,Kansas City Chiefs,KC,Miami Dolphins,MIA,Arrowhead Stadium,Outdoor,Natural Grass,Cloudy,23.0,Cloudy
+629,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,Buffalo Bills,BUF,Gillette Stadium,Outdoor,Field Turf,Cloudy,35.0,
+630,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,New Orleans,12:00,New Orleans Saints,NO,Atlanta Falcons,ATL,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Sunny,56.0,Sunny
+631,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,East Rutherford,13:00,New York Jets,NYJ,Los Angeles Chargers,LAC,MetLife,Outdoor,FieldTurf,,40.0,
+632,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Nashville,12:00,Tennessee Titans,TEN,Los Angeles Rams,LA,Nissan Stadium,Outdoors,Grass,Cloudy,39.0,Cloudy
+633,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Landover,13:00,Washington Redskins,WAS,Denver Broncos,DEN,FedExField,Outdoor,Grass,Cloudy,43.0,Cloudy
+634,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Santa Clara,13:05,San Francisco 49ers,SF,Jacksonville Jaguars,JAX,Levis Stadium,Outdoor,Natural grass,Cloudy,52.0,Cloudy
+635,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Glendale,14:25,Arizona Cardinals,ARZ,New York Giants,NYG,University of Phoenix Stadium,Dome,Grass,Clear,71.0,Sunny & Clear
+636,2017,Reg,16,2017-12-24 00:00:00.000,Sunday,Arlington,15:25,Dallas Cowboys,DAL,Seattle Seahawks,SEA,AT&T Stadium,Indoors,Artificial,,,"T: 44; H: 55%; W: N,15"
+637,2017,Reg,16,2017-12-25 00:00:00.000,Monday,Houston,15:30,Houston Texans,HST,Pittsburgh Steelers,PIT,NRG Stadium,Retractable Roof,Artificial,Mostly Cloudy,51.0,Mostly Cloudy
+638,2017,Reg,16,2017-12-25 00:00:00.000,Monday,Philadelphia,20:30,Philadelphia Eagles,PHI,Oakland Raiders,OAK,Lincoln Financial Field,Outdoor,Grass,Partly Cloudy,29.0,Partly Cloudy
+639,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Atlanta,16:25,Atlanta Falcons,ATL,Carolina Panthers,CAR,Mercedes-Benz Stadium,"Dome, closed",FieldTurf 360,,,"Cloudy, 35"
+640,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Baltimore,16:25,Baltimore Ravens,BLT,Cincinnati Bengals,CIN,M&T Bank Stadium,Outdoor,Natural Grass,Cloudy,19.0,Cloudy
+641,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Detroit,13:00,Detroit Lions,DET,Green Bay Packers,GB,Ford Field,Indoors,Field turf,Controlled Climate,68.0,"11 deg F, Winds NW at 5 mph, Humidity 61%"
+642,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Indianapolis,13:00,Indianapolis Colts,IND,Houston Texans,HST,Lucas Oil Stadium,Retr. Roof-Closed,Artificial,Partly sunny,9.0,"Partly sunny, 9 degr. Wind NW at 7 mph"
+643,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Miami Gardens,16:25,Miami Dolphins,MIA,Buffalo Bills,BUF,Hard Rock Stadium,Outdoor,Natural Grass,Clear,71.0,
+644,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Minneapolis,12:00,Minnesota Vikings,MIN,Chicago Bears,CHI,U.S. Bank Stadium,Indoors,Field Turf,N/A (Indoors),,
+645,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Foxborough,13:00,New England Patriots,NE,New York Jets,NYJ,Gillette Stadium,Outdoor,Field Turf,Cloudy and cold,13.0,
+646,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,East Rutherford,13:00,New York Giants,NYG,Washington Redskins,WAS,MetLife Stadium,,UBU Speed Series-S5-M,Partly Cloudy,16.0,
+647,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Philadelphia,13:00,Philadelphia Eagles,PHI,Dallas Cowboys,DAL,Lincoln Financial Field,Outdoor,Grass,Sunny,19.0,
+648,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Pittsburgh,13:00,Pittsburgh Steelers,PIT,Cleveland Browns,CLV,Heinz Field,Outdoors,Grass,Snow,11.0,Snow
+649,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Tampa Bay,16:25,Tampa Bay Buccaneers,TB,New Orleans Saints,NO,Raymond James Stadium,Outdoor,Natural Grass,Clear,71.0,Clear
+650,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Nashville,15:25,Tennessee Titans,TEN,Jacksonville Jaguars,JAX,Nissan Stadium,Outdoors,Grass,Clear,23.0,Clear
+651,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Denver,14:25,Denver Broncos,DEN,Kansas City Chiefs,KC,Sports Authority Field at Mile High,Outdoor,Grass,Cloudy,17.0,"Flurries, Falling to Mid-Teens"
+652,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Carson,13:25,Los Angeles Chargers,LAC,Oakland Raiders,OAK,StubHub Center,,Grass,Hazy,62.0,
+653,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Los Angeles,13:25,Los Angeles Rams,LA,San Francisco 49ers,SF,Los Angeles Memorial Coliseum,Outdoor,Grass,Sunny,67.0,Sunny
+654,2017,Reg,17,2017-12-31 00:00:00.000,Sunday,Seattle,13:25,Seattle Seahawks,SEA,Arizona Cardinals,ARZ,CenturyLink Field,Outdoor,FieldTurf,Sunny,40.0,Sunny
+655,2017,Post,1,2018-01-06 00:00:00.000,Saturday,Kansas City,15:35,Kansas City Chiefs,KC,Tennessee Titans,TEN,Arrowhead Stadium,Outdoor,Natural Grass,Sunny,33.0,
+656,2017,Post,1,2018-01-06 00:00:00.000,Saturday,Los Angeles,17:15,Los Angeles Rams,LA,Atlanta Falcons,ATL,Los Angeles Memorial Coliseum,Outdoor,Grass,Cloudy,62.0,Cloudy
+657,2017,Post,1,2018-01-07 00:00:00.000,Sunday,Jacksonville,13:05,Jacksonville Jaguars,JAX,Buffalo Bills,BUF,EverBank Field,Open,Grass,,53.0,
+658,2017,Post,1,2018-01-07 00:00:00.000,Sunday,New Orleans,15:40,New Orleans Saints,NO,Carolina Panthers,CAR,Mercedes-Benz Superdome,Indoors,UBU Speed Series-S5-M,Cloudy,63.0,Cloudy
+659,2017,Post,2,2018-01-13 00:00:00.000,Saturday,Philadelphia,16:35,Philadelphia Eagles,PHI,Atlanta Falcons,ATL,Lincoln Financial Field,Outdoor,Grass,Sunny,32.0,Sunny
+660,2017,Post,2,2018-01-13 00:00:00.000,Saturday,Foxborough,20:15,New England Patriots,NE,Tennessee Titans,TEN,Gillette Stadium,Outdoor,Field Turf,Clear and Cold,24.0,
+661,2017,Post,2,2018-01-14 00:00:00.000,Sunday,Pittsburgh,13:05,Pittsburgh Steelers,PIT,Jacksonville Jaguars,JAX,Heinz Field,Outdoors,Grass,Sunny,18.0,Sunny
+662,2017,Post,2,2018-01-14 00:00:00.000,Sunday,Minneapolis,15:40,Minnesota Vikings,MIN,New Orleans Saints,NO,U.S. Bank Stadium,Indoors,Field Turf,Indoors,,
+663,2017,Post,3,2018-01-21 00:00:00.000,Sunday,Foxborough,15:05,New England Patriots,NE,Jacksonville Jaguars,JAX,Gillette Stadium,Outdoor,Field Turf,Clear and cool,48.0,
+664,2017,Post,3,2018-01-21 00:00:00.000,Sunday,Philadelphia,18:40,Philadelphia Eagles,PHI,Minnesota Vikings,MIN,Lincoln Financial Field,Outdoor,Grass,Cloudy,47.0,Cloudy
+665,2017,Post,4,2018-02-04 00:00:00.000,Sunday,Minneapolis,17:30,New England Patriots,NE,Philadelphia Eagles,PHI,U.S. Bank Stadium,Indoor,Field Turf,,3.0,
+666,2017,Post,5,2018-01-28 00:00:00.000,Sunday,Orlando,15:00,AFC,AFC,NFC,NFC,Camping World Stadium,Outdoor,Turf,Cloudy,77.0,Cloudy
